@@ -1,0 +1,502 @@
+File,model,model_raw_answer,parsed_letter,correct_letter,literal_letter,status,humor_style,contextual_knowledge
+1actpx8,google/gemini-3.5-flash,D,D,D,C,correct,Sarcasm/Irony,Hobby
+1af8odu,google/gemini-3.5-flash,A,A,A,C,correct,Wordplay,Pop culture
+1ajzxfm,google/gemini-3.5-flash,B,B,B,D,correct,Comparison,Logical
+1amtoff,google/gemini-3.5-flash,A,A,A,C,correct,Incongruity,General knowledge
+1aoxsw3,google/gemini-3.5-flash,A,A,A,D,correct,Comparison,Technical
+1asrnb3,google/gemini-3.5-flash,B,B,B,C,correct,Exaggeration,Pop culture
+1aya611,google/gemini-3.5-flash,C,C,C,D,correct,Sarcasm/Irony,Social conventions
+1b03bqv,google/gemini-3.5-flash,D,D,D,C,correct,Incongruity,politics
+1b7unh0,google/gemini-3.5-flash,A,A,B,D,other_distractor,Comparison,History/Mythology
+1be8p2s,google/gemini-3.5-flash,C,C,C,B,correct,Incongruity,Pop culture
+1bikyy1,google/gemini-3.5-flash,A,A,A,B,correct,Sarcasm/Irony,History/Mythology
+1bl3eve,google/gemini-3.5-flash,C,C,C,A,correct,Incongruity,Hobby
+1bmtc5u,google/gemini-3.5-flash,C,C,C,D,correct,Incongruity,Social conventions
+1bsdc0l,google/gemini-3.5-flash,A,A,A,D,correct,Comparison,History/Mythology
+1bw9tb7,google/gemini-3.5-flash,D,D,C,B,other_distractor,Comparison,General knowledge
+1c1tpnf,google/gemini-3.5-flash,B,B,B,D,correct,Incongruity,meme
+1c6zoan,google/gemini-3.5-flash,D,D,D,B,correct,Sarcasm/Irony,Pop culture
+1c22s8b,google/gemini-3.5-flash,C,C,B,A,other_distractor,Incongruity,Pop culture
+1c175gf,google/gemini-3.5-flash,B,B,B,D,correct,Sarcasm/Irony,politics
+1ccfha2,google/gemini-3.5-flash,C,C,A,B,other_distractor,Sarcasm/Irony,politics
+1cehmmt,google/gemini-3.5-flash,B,B,B,A,correct,Situational,Pop culture
+1cgcw31,google/gemini-3.5-flash,B,B,B,D,correct,Exaggeration,Pop culture
+1jfy6ms,google/gemini-3.5-flash,A,A,A,C,correct,Wordplay,Pop culture
+1eae89f,google/gemini-3.5-flash,D,D,D,B,correct,Exaggeration,Hobby
+1iw42ka,google/gemini-3.5-flash,C,C,C,D,correct,Exaggeration,Pop culture
+1k4fjdr,google/gemini-3.5-flash,A,A,A,D,correct,Wordplay,Logical
+1l4mpmj,google/gemini-3.5-flash,C,C,A,D,other_distractor,Situational,Social conventions
+1k0el7w,google/gemini-3.5-flash,C,C,C,B,correct,Situational,Hobby
+15h4szq,google/gemini-3.5-flash,D,D,D,C,correct,Comparison,History/Mythology
+1k70gfk,google/gemini-3.5-flash,D,D,D,A,correct,Exaggeration,politics
+1jaa0tw,google/gemini-3.5-flash,A,A,B,A,literal,Comparison,History/Mythology
+1m0a4hv,google/gemini-3.5-flash,C,C,C,A,correct,Sarcasm/Irony,History/Mythology
+1hvaqk7,google/gemini-3.5-flash,D,D,D,C,correct,Incongruity,meme
+1kw3buz,google/gemini-3.5-flash,B,B,B,C,correct,Wordplay,Logical
+1blxcsy,google/gemini-3.5-flash,D,D,C,D,literal,Situational,Pop culture
+1cskltc,google/gemini-3.5-flash,A,A,A,D,correct,Wordplay,Pop culture
+1kqwlgj,google/gemini-3.5-flash,A,A,A,C,correct,Exaggeration,Technical
+15yqaf6,google/gemini-3.5-flash,A,A,A,C,correct,Incongruity,Technical
+1fycaf4,google/gemini-3.5-flash,B,B,B,D,correct,Situational,Logical
+1cpvjc7,google/gemini-3.5-flash,A,A,C,A,literal,Sarcasm/Irony,Technical
+1bur7j0,google/gemini-3.5-flash,B,B,B,C,correct,Situational,Pop culture
+1co83ht,google/gemini-3.5-flash,C,C,C,D,correct,Incongruity,Social conventions
+1cwrltm,google/gemini-3.5-flash,C,C,C,D,correct,Dark Humor,Pop culture
+1cym2ue,google/gemini-3.5-flash,B,B,A,C,other_distractor,Exaggeration,Pop culture
+1d2jxbw,google/gemini-3.5-flash,C,C,C,B,correct,Incongruity,General knowledge
+1d6ho4f,google/gemini-3.5-flash,B,B,B,C,correct,Incongruity,General knowledge
+1d8sg9b,google/gemini-3.5-flash,D,D,D,C,correct,Exaggeration,Logical
+1d98tf9,google/gemini-3.5-flash,D,D,D,C,correct,Dark Humor,politics
+1dbipgs,google/gemini-3.5-flash,A,A,D,C,other_distractor,Exaggeration,Logical
+1dfrh37,google/gemini-3.5-flash,D,D,D,B,correct,Incongruity,Hobby
+1di1z94,google/gemini-3.5-flash,A,A,A,C,correct,Exaggeration,Social conventions
+1dk6kds,google/gemini-3.5-flash,B,B,B,D,correct,Dark Humor,Pop culture
+1dlzvsx,google/gemini-3.5-flash,D,D,D,A,correct,Comparison,Logical
+1do7yvv,google/gemini-3.5-flash,C,C,C,D,correct,Incongruity,Logical
+1dr9jg6,google/gemini-3.5-flash,A,A,A,B,correct,Situational,Pop culture
+1dtmedg,google/gemini-3.5-flash,B,B,A,C,other_distractor,Situational,Social conventions
+1dwa7tj,google/gemini-3.5-flash,D,D,D,C,correct,Dark Humor,History/Mythology
+1e0k66e,google/gemini-3.5-flash,B,B,B,C,correct,Wordplay,Technical
+1e2qvt9,google/gemini-3.5-flash,C,C,C,B,correct,Exaggeration,Social conventions
+1e6m88u,google/gemini-3.5-flash,B,B,B,A,correct,Comparison,Pop culture
+1ea5yhw,google/gemini-3.5-flash,A,A,A,D,correct,Exaggeration,politics
+1eeayas,google/gemini-3.5-flash,B,B,B,A,correct,Sarcasm/Irony,History/Mythology
+1efs65o,google/gemini-3.5-flash,B,B,B,D,correct,Comparison,Hobby
+1eko6xo,google/gemini-3.5-flash,C,C,C,B,correct,Comparison,Pop culture
+1elhse8,google/gemini-3.5-flash,B,B,B,D,correct,Exaggeration,Logical
+1eq297i,google/gemini-3.5-flash,B,B,B,C,correct,Exaggeration,politics
+1et8l0q,google/gemini-3.5-flash,C,C,C,B,correct,Incongruity,Logical
+1ex1lej,google/gemini-3.5-flash,D,D,D,C,correct,Exaggeration,General knowledge
+1f0qs2a,google/gemini-3.5-flash,B,B,B,D,correct,Incongruity,General knowledge
+1f4tmhz,google/gemini-3.5-flash,D,D,D,C,correct,Sarcasm/Irony,Logical
+1f16w9p,google/gemini-3.5-flash,C,C,C,D,correct,Situational,General knowledge
+1fa202w,google/gemini-3.5-flash,C,C,C,D,correct,Exaggeration,Hobby
+1fbym0h,google/gemini-3.5-flash,D,D,D,B,correct,Comparison,Social conventions
+1fdg0i5,google/gemini-3.5-flash,D,D,D,A,correct,Dark Humor,politics
+1fg38dp,google/gemini-3.5-flash,B,B,B,A,correct,Exaggeration,Logical
+1fm0tjo,google/gemini-3.5-flash,C,C,C,D,correct,Exaggeration,Logical
+1fs6ndo,google/gemini-3.5-flash,B,B,B,D,correct,Comparison,Hobby
+1fo91u1,google/gemini-3.5-flash,D,D,D,B,correct,Situational,Logical
+1fst6nb,google/gemini-3.5-flash,B,B,B,C,correct,Comparison,politics
+1fu3pp1,google/gemini-3.5-flash,C,C,C,B,correct,Incongruity,Technical
+1fuxrbx,google/gemini-3.5-flash,A,A,A,C,correct,Wordplay,Hobby
+1fwbzz9,google/gemini-3.5-flash,A,A,A,C,correct,Situational,politics
+1fxqzyt,google/gemini-3.5-flash,B,B,B,D,correct,Wordplay,Social conventions
+1g02nzf,google/gemini-3.5-flash,D,D,D,B,correct,Situational,History/Mythology
+1g7yhzc,google/gemini-3.5-flash,A,A,A,C,correct,Exaggeration,Social conventions
+1g4657e,google/gemini-3.5-flash,A,A,B,C,other_distractor,Incongruity,History/Mythology
+1gazv8u,google/gemini-3.5-flash,B,B,B,D,correct,Dark Humor,politics
+1gidb47,google/gemini-3.5-flash,A,A,B,D,other_distractor,Situational,Technical
+1gop1dk,google/gemini-3.5-flash,A,A,D,B,other_distractor,Exaggeration,Social conventions
+1gqh1c5,google/gemini-3.5-flash,D,D,D,C,correct,Situational,Social conventions
+1gs87cm,google/gemini-3.5-flash,C,C,C,D,correct,Situational,Pop culture
+1guacve,google/gemini-3.5-flash,A,A,A,B,correct,Exaggeration,Social conventions
+1gx0pu0,google/gemini-3.5-flash,D,D,D,A,correct,Comparison,Hobby
+1gz2i0o,google/gemini-3.5-flash,C,C,C,D,correct,Exaggeration,History/Mythology
+1gzkbbi,google/gemini-3.5-flash,D,D,D,C,correct,Comparison,politics
+1h5a44z,google/gemini-3.5-flash,A,A,A,D,correct,Comparison,Pop culture
+1h7di4x,google/gemini-3.5-flash,C,C,C,D,correct,Wordplay,Logical
+1h8d39n,google/gemini-3.5-flash,A,A,A,D,correct,Comparison,Hobby
+1h52vkf,google/gemini-3.5-flash,A,A,A,D,correct,Comparison,General knowledge
+1hfggtz,google/gemini-3.5-flash,B,B,B,A,correct,Comparison,Technical
+1hmbnol,google/gemini-3.5-flash,D,D,D,B,correct,Comparison,Technical
+1hqtnop,google/gemini-3.5-flash,A,A,A,C,correct,Wordplay,politics
+1huqauz,google/gemini-3.5-flash,B,B,B,A,correct,Incongruity,Hobby
+1i5ve1j,google/gemini-3.5-flash,C,C,C,B,correct,Comparison,History/Mythology
+1iad0kh,google/gemini-3.5-flash,B,B,B,D,correct,Exaggeration,Technical
+1ibz4bh,google/gemini-3.5-flash,D,D,D,A,correct,Incongruity,Technical
+1ig7lnf,google/gemini-3.5-flash,D,D,D,C,correct,Incongruity,meme
+1inxmb2,google/gemini-3.5-flash,A,A,A,C,correct,Comparison,meme
+1iri57s,google/gemini-3.5-flash,B,B,C,A,other_distractor,Surprise,Social conventions
+1iv0i8s,google/gemini-3.5-flash,B,B,B,D,correct,Situational,Logical
+1h626bt,google/gemini-3.5-flash,C,C,C,A,correct,Wordplay,Hobby
+1hcpvbz,google/gemini-3.5-flash,A,A,A,B,correct,Situational,Pop culture
+1izj4eu,google/gemini-3.5-flash,D,D,D,A,correct,Incongruity,politics
+1j983b2,google/gemini-3.5-flash,A,A,A,D,correct,Comparison,Social conventions
+1jaysny,google/gemini-3.5-flash,D,D,D,A,correct,Incongruity,Hobby
+1jh5toe,google/gemini-3.5-flash,D,D,D,A,correct,Exaggeration,Social conventions
+1jjiqlq,google/gemini-3.5-flash,A,A,A,C,correct,Sarcasm/Irony,Social conventions
+1k25b9s,google/gemini-3.5-flash,A,A,A,D,correct,Comparison,History/Mythology
+1kgak2u,google/gemini-3.5-flash,C,C,C,D,correct,Comparison,Technical
+1mbnnpw,google/gemini-3.5-flash,C,C,B,D,other_distractor,Surprise,General knowledge
+17pg0fe,google/gemini-3.5-flash,D,D,D,B,correct,Exaggeration,Pop culture
+1l8vajl,google/gemini-3.5-flash,C,C,C,B,correct,Comparison,Hobby
+1c38j1b,google/gemini-3.5-flash,D,D,D,A,correct,Comparison,Logical
+1bdho8z,google/gemini-3.5-flash,B,B,B,C,correct,Exaggeration,Social conventions
+1naurrn,google/gemini-3.5-flash,A,A,D,B,other_distractor,Comparison,Technical
+1mfr9vy,google/gemini-3.5-flash,B,B,B,C,correct,Situational,Social conventions
+1m241pn,google/gemini-3.5-flash,B,B,B,D,correct,Dark Humor,Social conventions
+1m9u48i,google/gemini-3.5-flash,C,C,D,B,other_distractor,Incongruity,Hobby
+1m7b5bx,google/gemini-3.5-flash,B,B,B,A,correct,Surprise,politics
+1lttuji,google/gemini-3.5-flash,D,D,D,A,correct,Incongruity,Pop culture
+1ljrgbw,google/gemini-3.5-flash,D,D,D,A,correct,Surprise,Social conventions
+1k6ds0q,google/gemini-3.5-flash,C,C,C,B,correct,Sarcasm/Irony,Social conventions
+1bk0w4q,google/gemini-3.5-flash,C,C,C,A,correct,Surprise,politics
+1heeibu,google/gemini-3.5-flash,A,A,A,D,correct,Incongruity,meme
+1fvpb5q,google/gemini-3.5-flash,D,D,D,B,correct,Dark Humor,politics
+184f4hh,google/gemini-3.5-flash,C,C,C,B,correct,Comparison,Hobby
+1mzfdhh,google/gemini-3.5-flash,C,C,C,A,correct,Situational,Hobby
+1l1hxof,google/gemini-3.5-flash,D,D,D,C,correct,Incongruity,Social conventions
+1kjg3vh,google/gemini-3.5-flash,B,B,B,C,correct,Dark Humor,Logical
+1k4lzxj,google/gemini-3.5-flash,C,C,C,B,correct,Sarcasm/Irony,politics
+1j0w1z3,google/gemini-3.5-flash,B,B,B,A,correct,Comparison,meme
+1irxw6j,google/gemini-3.5-flash,B,B,D,B,literal,Dark Humor,History/Mythology
+1ird7yb,google/gemini-3.5-flash,B,B,C,A,other_distractor,Exaggeration,Hobby
+169oqq5,google/gemini-3.5-flash,D,D,D,B,correct,Wordplay,General knowledge
+1co29mb,google/gemini-3.5-flash,D,D,D,C,correct,Wordplay,Pop culture
+19eokbq,google/gemini-3.5-flash,C,C,C,A,correct,Situational,General knowledge
+1c3z5ld,google/gemini-3.5-flash,C,C,C,D,correct,Situational,Hobby
+1dxonad,google/gemini-3.5-flash,B,B,B,C,correct,Wordplay,General knowledge
+1cbcpxn,google/gemini-3.5-flash,D,D,D,C,correct,Situational,Hobby
+194s3gh,google/gemini-3.5-flash,A,A,A,C,correct,Exaggeration,meme
+1ipozgr,google/gemini-3.5-flash,D,D,D,B,correct,Situational,General knowledge
+1n7s8ht,google/gemini-3.5-flash,D,D,D,A,correct,Exaggeration,History/Mythology
+1bvyaep,google/gemini-3.5-flash,A,A,A,C,correct,Surprise,History/Mythology
+1587f2g,google/gemini-3.5-flash,A,A,A,D,correct,Exaggeration,Technical
+177cl97,google/gemini-3.5-flash,D,D,D,A,correct,Situational,Technical
+1jhyaz4,google/gemini-3.5-flash,C,C,C,B,correct,Exaggeration,General knowledge
+1fssuxj,google/gemini-3.5-flash,C,C,A,C,literal,Wordplay,Logical
+1fwc8sk,google/gemini-3.5-flash,B,B,B,A,correct,Situational,Pop culture
+195f4ld,google/gemini-3.5-flash,A,A,A,C,correct,Surprise,meme
+1key5qt,google/gemini-3.5-flash,C,C,B,C,literal,Incongruity,Pop culture
+1jzigfy,google/gemini-3.5-flash,D,D,D,C,correct,Sarcasm/Irony,General knowledge
+192wp5d,google/gemini-3.5-flash,C,C,C,D,correct,Incongruity,Social conventions
+1hql3cv,google/gemini-3.5-flash,D,D,D,A,correct,Wordplay,General knowledge
+1mluk7a,google/gemini-3.5-flash,A,A,A,B,correct,Dark Humor,History/Mythology
+1mpg380,google/gemini-3.5-flash,B,B,B,A,correct,Situational,Hobby
+1eexgq9,google/gemini-3.5-flash,C,C,C,D,correct,Dark Humor,History/Mythology
+1cs870m,google/gemini-3.5-flash,B,B,B,A,correct,Wordplay,General knowledge
+1g1cv45,google/gemini-3.5-flash,B,B,B,UNKNOWN,correct,Comparison,meme
+1g2ofgo,google/gemini-3.5-flash,A,A,A,D,correct,Situational,History/Mythology
+1jzu8un,google/gemini-3.5-flash,C,C,C,B,correct,Surprise,Technical
+1gvvhs3,google/gemini-3.5-flash,A,A,A,B,correct,Wordplay,Social conventions
+1l22d3q,google/gemini-3.5-flash,C,C,C,B,correct,Sarcasm/Irony,Pop culture
+1j289je,google/gemini-3.5-flash,D,D,D,C,correct,Incongruity,General knowledge
+1ga3uxo,google/gemini-3.5-flash,A,A,A,D,correct,Surprise,Technical
+1l99mtp,google/gemini-3.5-flash,D,D,A,D,literal,Situational,Technical
+1hjwowy,google/gemini-3.5-flash,C,C,D,C,literal,Exaggeration,Social conventions
+1ii3g3t,google/gemini-3.5-flash,D,D,D,A,correct,Dark Humor,History/Mythology
+1h7ih54,google/gemini-3.5-flash,B,B,B,A,correct,Comparison,Pop culture
+1eglfe7,google/gemini-3.5-flash,C,C,A,B,other_distractor,Surprise,Technical
+1jdq5gi,google/gemini-3.5-flash,C,C,C,UNKNOWN,correct,Wordplay,Social conventions
+1jykoxc,google/gemini-3.5-flash,B,B,B,D,correct,Wordplay,General knowledge
+1il72ww,google/gemini-3.5-flash,B,B,B,C,correct,Sarcasm/Irony,Social conventions
+1g3admg,google/gemini-3.5-flash,C,C,B,A,other_distractor,Situational,meme
+1kpj6mq,google/gemini-3.5-flash,A,A,A,B,correct,Comparison,Pop culture
+1gp140e,google/gemini-3.5-flash,D,D,D,A,correct,Surprise,meme
+1it3ezt,google/gemini-3.5-flash,A,A,A,D,correct,Wordplay,Technical
+1ceuuuh,google/gemini-3.5-flash,A,A,A,C,correct,Sarcasm/Irony,politics
+1bk5jkq,google/gemini-3.5-flash,C,C,C,D,correct,Surprise,Technical
+1az5r39,google/gemini-3.5-flash,D,D,D,C,correct,Comparison,politics
+1hauo6q,google/gemini-3.5-flash,A,A,A,B,correct,Dark Humor,politics
+1jtym4e,google/gemini-3.5-flash,A,A,A,D,correct,Dark Humor,politics
+1l4x3e6,google/gemini-3.5-flash,A,A,B,C,other_distractor,Surprise,politics
+1mahcad,google/gemini-3.5-flash,B,B,B,C,correct,Wordplay,General knowledge
+1j0n4gg,google/gemini-3.5-flash,D,D,D,C,correct,Surprise,politics
+1hbogj4,google/gemini-3.5-flash,D,D,D,A,correct,Dark Humor,politics
+1flb4nk,google/gemini-3.5-flash,D,D,D,A,correct,Surprise,History/Mythology
+1dhf9h2,google/gemini-3.5-flash,A,A,A,B,correct,Surprise,politics
+1c01lei,google/gemini-3.5-flash,A,A,B,A,literal,Dark Humor,politics
+1d7u657,google/gemini-3.5-flash,B,B,B,D,correct,Sarcasm/Irony,politics
+1dv83hh,google/gemini-3.5-flash,C,C,C,A,correct,Dark Humor,politics
+1cdufsh,google/gemini-3.5-flash,C,C,C,A,correct,Sarcasm/Irony,politics
+13ibrc1,google/gemini-3.5-flash,A,A,A,C,correct,Comparison,Logical
+1m56k4v,google/gemini-3.5-flash,A,A,B,D,other_distractor,Surprise,Technical
+1mbrsfx,google/gemini-3.5-flash,C,C,C,B,correct,Surprise,meme
+1lnme9d,google/gemini-3.5-flash,A,A,D,C,other_distractor,Surprise,History/Mythology
+1lhnwl4,google/gemini-3.5-flash,A,A,A,B,correct,Incongruity,politics
+1lcutci,google/gemini-3.5-flash,A,A,A,B,correct,Comparison,politics
+1lmltqs,google/gemini-3.5-flash,D,D,A,C,other_distractor,Surprise,meme
+1lgqywl,google/gemini-3.5-flash,A,A,A,C,correct,Dark Humor,History/Mythology
+1l8fck5,google/gemini-3.5-flash,C,C,C,A,correct,Surprise,Logical
+1if88s3,google/gemini-3.5-flash,C,C,C,D,correct,Wordplay,Technical
+1jpn69p,google/gemini-3.5-flash,D,D,D,A,correct,Comparison,Technical
+1fs7uqa,google/gemini-3.5-flash,C,C,C,D,correct,Surprise,politics
+1k6qo63,google/gemini-3.5-flash,C,C,C,B,correct,Comparison,Technical
+1ku0frm,google/gemini-3.5-flash,D,D,D,B,correct,Wordplay,Logical
+1mj26iu,google/gemini-3.5-flash,D,D,D,C,correct,Wordplay,Logical
+1agsl73,google/gemini-3.5-flash,D,D,D,A,correct,Wordplay,History/Mythology
+1cqzlzh,google/gemini-3.5-flash,C,C,C,A,correct,Sarcasm/Irony,History/Mythology
+1m55hez,google/gemini-3.5-flash,A,A,A,C,correct,Dark Humor,Logical
+1arjiwr,google/gemini-3.5-flash,C,C,C,D,correct,Comparison,politics
+1jny20o,google/gemini-3.5-flash,D,D,D,B,correct,Sarcasm/Irony,Logical
+1josjz1,google/gemini-3.5-flash,C,C,C,D,correct,Wordplay,politics
+1m83zvy,google/gemini-3.5-flash,B,B,B,D,correct,Comparison,Hobby
+1m3s0a4,google/gemini-3.5-flash,C,C,C,B,correct,Sarcasm/Irony,History/Mythology
+15vbd1p,google/gemini-3.5-flash,D,D,D,C,correct,Dark Humor,Logical
+1mhtv4z,google/gemini-3.5-flash,C,C,C,B,correct,Dark Humor,Hobby
+1mkomql,google/gemini-3.5-flash,B,B,B,A,correct,Sarcasm/Irony,meme
+1narr2o,google/gemini-3.5-flash,D,D,B,C,other_distractor,Sarcasm/Irony,Logical
+1n0my5r,google/gemini-3.5-flash,A,A,A,C,correct,Surprise,Hobby
+1k5a33w,google/gemini-3.5-flash,B,B,B,A,correct,Sarcasm/Irony,meme
+1k5wejp,google/gemini-3.5-flash,B,B,B,C,correct,Surprise,Hobby
+1k4ukvi,google/gemini-3.5-flash,D,D,D,B,correct,Sarcasm/Irony,General knowledge
+1kehvhj,google/gemini-3.5-flash,A,A,A,C,correct,Exaggeration,History/Mythology
+1keqvzx,google/gemini-3.5-flash,D,D,D,B,correct,Dark Humor,Logical
+1kpfg74,google/gemini-3.5-flash,B,B,C,D,other_distractor,Sarcasm/Irony,History/Mythology
+1kidi8e,google/gemini-3.5-flash,B,B,B,A,correct,Sarcasm/Irony,Technical
+1kjlggg,google/gemini-3.5-flash,B,B,B,C,correct,Dark Humor,politics
+1kqcllz,google/gemini-3.5-flash,C,C,B,D,other_distractor,Sarcasm/Irony,Logical
+1jwjneb,google/gemini-3.5-flash,C,C,C,D,correct,Comparison,Hobby
+1kpua4s,google/gemini-3.5-flash,C,C,C,D,correct,Surprise,Hobby
+1l7z6gs,google/gemini-3.5-flash,C,C,C,B,correct,Sarcasm/Irony,Social conventions
+1asecwa,google/gemini-3.5-flash,C,C,C,D,correct,Dark Humor,Technical
+1i38yhn,google/gemini-3.5-flash,B,B,B,A,correct,Situational,Hobby
+1bpefe3,google/gemini-3.5-flash,C,C,C,D,correct,Wordplay,Logical
+1esw67r,google/gemini-3.5-flash,A,A,A,C,correct,Wordplay,Logical
+1fkmtz4,google/gemini-3.5-flash,B,B,B,A,correct,Dark Humor,Technical
+1c43fea,google/gemini-3.5-flash,A,A,B,A,literal,Dark Humor,Hobby
+1czson4,google/gemini-3.5-flash,C,C,C,B,correct,Sarcasm/Irony,Technical
+1dcyo13,google/gemini-3.5-flash,D,D,D,C,correct,Dark Humor,politics
+1fvuj7k,google/gemini-3.5-flash,A,A,A,C,correct,Exaggeration,Hobby
+1gtbssx,google/gemini-3.5-flash,C,C,C,B,correct,Dark Humor,Hobby
+1htm33y,google/gemini-3.5-flash,A,A,C,B,other_distractor,Wordplay,Logical
+1hw0vwf,google/gemini-3.5-flash,C,C,A,C,literal,Wordplay,Logical
+1kw5fto,google/gemini-3.5-flash,B,B,B,D,correct,Surprise,politics
+1k9xaf4,google/gemini-3.5-flash,B,B,A,D,other_distractor,Sarcasm/Irony,politics
+1jmn6xg,google/gemini-3.5-flash,A,A,A,C,correct,Sarcasm/Irony,politics
+1j5j7q8,google/gemini-3.5-flash,B,B,B,D,correct,Sarcasm/Irony,politics
+1itzxo7,google/gemini-3.5-flash,D,D,D,A,correct,Sarcasm/Irony,History/Mythology
+1ibyirm,google/gemini-3.5-flash,A,A,D,A,literal,Sarcasm/Irony,politics
+1ijlh5e,google/gemini-3.5-flash,B,B,D,B,literal,Situational,politics
+1ih9bat,google/gemini-3.5-flash,D,D,D,A,correct,Sarcasm/Irony,Logical
+1j1lc01,google/gemini-3.5-flash,C,C,C,B,correct,Surprise,Hobby
+1j9svdf,google/gemini-3.5-flash,B,B,C,D,other_distractor,Dark Humor,History/Mythology
+1jwvcno,google/gemini-3.5-flash,C,C,C,B,correct,Dark Humor,History/Mythology
+1kxar4d,google/gemini-3.5-flash,B,B,B,C,correct,Dark Humor,politics
+1m0b8uv,google/gemini-3.5-flash,A,A,C,D,other_distractor,Incongruity,politics
+19994ey,google/gemini-3.5-flash,C,C,C,D,correct,Exaggeration,politics
+18dba0l,google/gemini-3.5-flash,D,D,D,C,correct,Wordplay,Hobby
+1lppcyj,google/gemini-3.5-flash,B,B,B,A,correct,Situational,General knowledge
+1h066h6,google/gemini-3.5-flash,D,D,D,C,correct,Situational,Technical
+1kjzy1y,google/gemini-3.5-flash,A,A,A,C,correct,Wordplay,General knowledge
+1c341d5,google/gemini-3.5-flash,B,B,C,A,other_distractor,Exaggeration,General knowledge
+17930bw,google/gemini-3.5-flash,A,A,A,B,correct,Wordplay,General knowledge
+1lfe3gp,google/gemini-3.5-flash,C,C,C,D,correct,Exaggeration,politics
+19dbf08,google/gemini-3.5-flash,A,A,A,D,correct,Sarcasm/Irony,History/Mythology
+1ly2yui,google/gemini-3.5-flash,C,C,C,B,correct,Incongruity,Technical
+1bnyn39,google/gemini-3.5-flash,A,A,A,C,correct,Sarcasm/Irony,Pop culture
+1jczpuc,google/gemini-3.5-flash,D,D,D,C,correct,Sarcasm/Irony,Hobby
+1hy2gti,google/gemini-3.5-flash,A,A,A,B,correct,Situational,Hobby
+1h53lb4,google/gemini-3.5-flash,D,D,D,A,correct,Dark Humor,meme
+1joifiq,google/gemini-3.5-flash,D,D,D,B,correct,Surprise,Technical
+1iad95m,google/gemini-3.5-flash,D,D,D,A,correct,Exaggeration,Pop culture
+1aekqdo,google/gemini-3.5-flash,B,B,B,A,correct,Sarcasm/Irony,History/Mythology
+1n2ae1w,google/gemini-3.5-flash,D,D,D,C,correct,Exaggeration,politics
+198awkk,google/gemini-3.5-flash,A,A,A,B,correct,Wordplay,General knowledge
+1l5rutv,google/gemini-3.5-flash,A,A,A,C,correct,Surprise,Social conventions
+1b2nrx4,google/gemini-3.5-flash,C,C,C,A,correct,Exaggeration,Social conventions
+1kfy8l5,google/gemini-3.5-flash,B,B,D,A,other_distractor,Incongruity,politics
+1kvenyk,google/gemini-3.5-flash,A,A,A,C,correct,Sarcasm/Irony,History/Mythology
+1j6onpg,google/gemini-3.5-flash,C,C,B,A,other_distractor,Incongruity,Social conventions
+1j3kbpk,google/gemini-3.5-flash,C,C,B,A,other_distractor,Dark Humor,General knowledge
+180j85r,google/gemini-3.5-flash,A,A,C,D,other_distractor,Dark Humor,Technical
+1c8be16,google/gemini-3.5-flash,C,C,B,D,other_distractor,Surprise,History/Mythology
+14ys2z4,google/gemini-3.5-flash,D,D,D,B,correct,Situational,politics
+1kbjn4z,google/gemini-3.5-flash,B,B,B,D,correct,Dark Humor,Pop culture
+1jjo04h,google/gemini-3.5-flash,C,C,C,D,correct,Incongruity,meme
+1lofpc4,google/gemini-3.5-flash,A,A,D,B,other_distractor,Incongruity,meme
+1cj9j9z,google/gemini-3.5-flash,C,C,C,B,correct,Sarcasm/Irony,History/Mythology
+1lejj62,google/gemini-3.5-flash,A,A,C,D,other_distractor,Exaggeration,Pop culture
+1cb769r,google/gemini-3.5-flash,B,B,B,C,correct,Sarcasm/Irony,Hobby
+15aafk0,google/gemini-3.5-flash,A,A,A,C,correct,Sarcasm/Irony,Pop culture
+17aswoo,google/gemini-3.5-flash,A,A,A,D,correct,Incongruity,meme
+1lh0gn3,google/gemini-3.5-flash,B,B,A,D,other_distractor,Sarcasm/Irony,meme
+1h779tg,google/gemini-3.5-flash,A,A,A,C,correct,Comparison,Pop culture
+1ftatdh,google/gemini-3.5-flash,B,B,B,D,correct,Exaggeration,History/Mythology
+1hwftqw,google/gemini-3.5-flash,B,B,B,A,correct,Dark Humor,meme
+186tj6c,google/gemini-3.5-flash,B,B,A,C,other_distractor,Wordplay,Technical
+1hqjjs0,google/gemini-3.5-flash,A,A,A,B,correct,Surprise,Pop culture
+1mwbbsw,google/gemini-3.5-flash,D,D,A,C,other_distractor,Wordplay,Logical
+1h03n16,google/gemini-3.5-flash,A,A,A,D,correct,Incongruity,Technical
+1b5u72j,google/gemini-3.5-flash,C,C,C,D,correct,Exaggeration,meme
+1kdp49k,google/gemini-3.5-flash,D,D,D,B,correct,Incongruity,Social conventions
+1kyy4wf,google/gemini-3.5-flash,B,B,B,A,correct,Incongruity,politics
+1j5stzi,google/gemini-3.5-flash,D,D,D,A,correct,Incongruity,meme
+1n8xv5g,google/gemini-3.5-flash,A,A,A,D,correct,Surprise,politics
+1gmxl68,google/gemini-3.5-flash,B,B,B,C,correct,Exaggeration,General knowledge
+1iu9i31,google/gemini-3.5-flash,C,C,C,A,correct,Dark Humor,meme
+1ftdy3c,google/gemini-3.5-flash,D,D,D,B,correct,Surprise,Logical
+1lt2euq,google/gemini-3.5-flash,D,D,D,A,correct,Exaggeration,Pop culture
+1gp5i8t,google/gemini-3.5-flash,D,D,D,A,correct,Exaggeration,General knowledge
+1j6bl5f,google/gemini-3.5-flash,A,A,D,A,literal,Comparison,Hobby
+1iz5ool,google/gemini-3.5-flash,A,A,A,C,correct,Dark Humor,politics
+1kfloer,google/gemini-3.5-flash,A,A,D,A,literal,Surprise,Logical
+1l3sh3k,google/gemini-3.5-flash,B,B,B,A,correct,Situational,Pop culture
+1kbvz8k,google/gemini-3.5-flash,C,C,C,D,correct,Situational,General knowledge
+1llqmsk,google/gemini-3.5-flash,D,D,C,UNKNOWN,wrong_literal_unknown,Surprise,History/Mythology
+1i5ptep,google/gemini-3.5-flash,C,C,C,A,correct,Situational,Social conventions
+1jwed8c,google/gemini-3.5-flash,B,B,B,C,correct,Surprise,meme
+1lavhpu,google/gemini-3.5-flash,D,D,D,A,correct,Exaggeration,History/Mythology
+1mh20fz,google/gemini-3.5-flash,C,C,C,A,correct,Surprise,Hobby
+1iu9a7u,google/gemini-3.5-flash,C,C,C,D,correct,Situational,Hobby
+1c7z583,google/gemini-3.5-flash,A,A,D,B,other_distractor,Dark Humor,Technical
+1j8se9s,google/gemini-3.5-flash,A,A,A,B,correct,Exaggeration,General knowledge
+1l45vl2,google/gemini-3.5-flash,A,A,A,B,correct,Situational,Logical
+1j7llre,google/gemini-3.5-flash,D,D,D,C,correct,Comparison,Logical
+1kgwdyt,google/gemini-3.5-flash,C,C,C,D,correct,Situational,Logical
+1k0nmen,google/gemini-3.5-flash,B,B,B,D,correct,Comparison,meme
+1kyo5pv,google/gemini-3.5-flash,A,A,A,D,correct,Comparison,Hobby
+1krtkl7,google/gemini-3.5-flash,D,D,D,A,correct,Situational,Social conventions
+1fhormb,google/gemini-3.5-flash,D,D,A,D,literal,Surprise,Hobby
+1iw106j,google/gemini-3.5-flash,C,C,C,UNKNOWN,correct,Comparison,Pop culture
+1ikp7ob,google/gemini-3.5-flash,B,B,B,C,correct,Sarcasm/Irony,Social conventions
+1iizrp4,google/gemini-3.5-flash,C,C,C,B,correct,Wordplay,politics
+1jgbtbp,google/gemini-3.5-flash,A,A,A,B,correct,Incongruity,History/Mythology
+1kse8n2,google/gemini-3.5-flash,C,C,C,D,correct,Comparison,Pop culture
+1dgwejg,google/gemini-3.5-flash,B,B,B,D,correct,Comparison,Social conventions
+1hhkhlc,google/gemini-3.5-flash,D,D,D,C,correct,Comparison,General knowledge
+1l5ixzd,google/gemini-3.5-flash,B,B,B,C,correct,Situational,Logical
+1jmzzco,google/gemini-3.5-flash,A,A,A,C,correct,Sarcasm/Irony,meme
+1jx5y8q,google/gemini-3.5-flash,C,C,D,B,other_distractor,Situational,Logical
+1jeeg3m,google/gemini-3.5-flash,C,C,C,A,correct,Surprise,Pop culture
+1mngo9t,google/gemini-3.5-flash,A,A,C,A,literal,Situational,Pop culture
+1knbdga,google/gemini-3.5-flash,C,C,C,A,correct,Surprise,Technical
+1grd05j,google/gemini-3.5-flash,B,B,B,D,correct,Comparison,Social conventions
+1fy9pjo,google/gemini-3.5-flash,A,A,A,C,correct,Dark Humor,General knowledge
+1jfnlgd,google/gemini-3.5-flash,B,B,A,D,other_distractor,Dark Humor,Social conventions
+1kafv5j,google/gemini-3.5-flash,A,A,A,D,correct,Dark Humor,Pop culture
+1d7x2rg,google/gemini-3.5-flash,C,C,C,A,correct,Situational,Logical
+1jp8wst,google/gemini-3.5-flash,D,D,D,B,correct,Dark Humor,History/Mythology
+1kw2p1y,google/gemini-3.5-flash,C,C,C,D,correct,Surprise,Logical
+1k27mne,google/gemini-3.5-flash,A,A,A,B,correct,Dark Humor,Hobby
+1duiywi,google/gemini-3.5-flash,C,C,C,A,correct,Incongruity,Technical
+1jzk0f2,google/gemini-3.5-flash,D,D,D,B,correct,Situational,Pop culture
+1l6ov5y,google/gemini-3.5-flash,C,C,C,A,correct,Situational,Hobby
+1d5bxcu,google/gemini-3.5-flash,B,B,B,C,correct,Dark Humor,meme
+1fvg71d,google/gemini-3.5-flash,B,B,B,A,correct,Comparison,History/Mythology
+1j25t67,google/gemini-3.5-flash,B,B,B,D,correct,Wordplay,meme
+1jipmfo,google/gemini-3.5-flash,D,D,D,A,correct,Surprise,Hobby
+1fl51f0,google/gemini-3.5-flash,B,B,B,D,correct,Surprise,Social conventions
+1kxmxbf,google/gemini-3.5-flash,C,C,C,D,correct,Exaggeration,History/Mythology
+1kpsba8,google/gemini-3.5-flash,A,A,A,C,correct,Situational,Social conventions
+1klgmos,google/gemini-3.5-flash,D,D,D,C,correct,Exaggeration,General knowledge
+1jk2lgw,google/gemini-3.5-flash,C,C,C,D,correct,Sarcasm/Irony,meme
+1jpmmd9,google/gemini-3.5-flash,C,C,C,A,correct,Wordplay,Social conventions
+1j0k484,google/gemini-3.5-flash,D,D,D,B,correct,Wordplay,Technical
+1jtq5lb,google/gemini-3.5-flash,B,B,B,D,correct,Wordplay,General knowledge
+1lbduvg,google/gemini-3.5-flash,D,D,D,A,correct,Comparison,Hobby
+1g41h0e,google/gemini-3.5-flash,D,D,D,A,correct,Surprise,Technical
+1kjzqgk,google/gemini-3.5-flash,D,D,D,A,correct,Situational,Hobby
+1mxibps,google/gemini-3.5-flash,B,B,B,A,correct,Comparison,Pop culture
+1c4n4xd,google/gemini-3.5-flash,B,B,B,A,correct,Situational,Logical
+1m4ns1d,google/gemini-3.5-flash,B,B,B,D,correct,Comparison,Technical
+1ljwpph,google/gemini-3.5-flash,A,A,A,D,correct,Wordplay,General knowledge
+1kczb4x,google/gemini-3.5-flash,C,C,C,A,correct,Exaggeration,Social conventions
+1mcgb86,google/gemini-3.5-flash,C,C,C,UNKNOWN,correct,Situational,Social conventions
+1i7iklj,google/gemini-3.5-flash,C,C,C,D,correct,Situational,Technical
+18lkyqa,google/gemini-3.5-flash,C,C,C,B,correct,Exaggeration,Social conventions
+1kmjd7k,google/gemini-3.5-flash,A,A,B,D,other_distractor,Incongruity,Pop culture
+1j6w01m,google/gemini-3.5-flash,A,A,A,C,correct,Situational,Technical
+1itmj5l,google/gemini-3.5-flash,B,B,B,A,correct,Situational,Technical
+1d11llv,google/gemini-3.5-flash,D,D,D,A,correct,Situational,Social conventions
+1dap4il,google/gemini-3.5-flash,A,A,A,C,correct,Dark Humor,Pop culture
+1mcy7yd,google/gemini-3.5-flash,A,A,A,D,correct,Comparison,Social conventions
+1g2fiqh,google/gemini-3.5-flash,C,C,C,D,correct,Situational,meme
+1itwe3y,google/gemini-3.5-flash,D,D,D,A,correct,Situational,Technical
+1l8fcur,google/gemini-3.5-flash,D,D,A,C,other_distractor,Dark Humor,Social conventions
+1jbg4m6,google/gemini-3.5-flash,B,B,B,A,correct,Situational,Hobby
+1lc0zi5,google/gemini-3.5-flash,B,B,B,C,correct,Exaggeration,Technical
+1lyfboo,google/gemini-3.5-flash,D,D,D,C,correct,Situational,Pop culture
+1dhtsjq,google/gemini-3.5-flash,A,A,A,B,correct,Exaggeration,Pop culture
+1k60lga,google/gemini-3.5-flash,D,D,D,C,correct,Dark Humor,Social conventions
+1hevxkv,google/gemini-3.5-flash,D,D,D,C,correct,Surprise,Social conventions
+1jkt7ig,google/gemini-3.5-flash,C,C,C,A,correct,Exaggeration,Social conventions
+1irf9u4,google/gemini-3.5-flash,C,C,C,D,correct,Situational,meme
+1m8nhhl,google/gemini-3.5-flash,B,B,B,D,correct,Situational,Social conventions
+1m015wk,google/gemini-3.5-flash,C,C,C,A,correct,Comparison,Social conventions
+1lv6b82,google/gemini-3.5-flash,A,A,A,D,correct,Situational,Social conventions
+1ieb7j3,google/gemini-3.5-flash,D,D,D,C,correct,Surprise,meme
+1d9ip08,google/gemini-3.5-flash,A,A,A,B,correct,Comparison,Hobby
+1jy5h3e,google/gemini-3.5-flash,C,C,C,D,correct,Sarcasm/Irony,Technical
+1kozyll,google/gemini-3.5-flash,A,A,D,B,other_distractor,Comparison,Pop culture
+1ic88xs,google/gemini-3.5-flash,D,D,B,C,other_distractor,Surprise,Logical
+1jhad2m,google/gemini-3.5-flash,A,A,A,D,correct,Incongruity,Hobby
+1bhaz0e,google/gemini-3.5-flash,C,C,C,A,correct,Dark Humor,politics
+1ka6jiq,google/gemini-3.5-flash,C,C,C,D,correct,Exaggeration,Social conventions
+1i6a88o,google/gemini-3.5-flash,A,A,A,D,correct,Sarcasm/Irony,meme
+188hmpb,google/gemini-3.5-flash,A,A,B,C,other_distractor,Wordplay,General knowledge
+1hudgc9,google/gemini-3.5-flash,A,A,A,B,correct,Sarcasm/Irony,Hobby
+1fq1qb9,google/gemini-3.5-flash,D,D,B,C,other_distractor,Wordplay,Logical
+1lkox24,google/gemini-3.5-flash,B,B,B,D,correct,Exaggeration,Pop culture
+1hdbees,google/gemini-3.5-flash,D,D,D,B,correct,Wordplay,Technical
+15upbjf,google/gemini-3.5-flash,D,D,D,A,correct,Incongruity,Technical
+1e3q5dd,google/gemini-3.5-flash,A,A,A,B,correct,Comparison,meme
+1hph3za,google/gemini-3.5-flash,D,D,D,A,correct,Incongruity,meme
+1bazqft,google/gemini-3.5-flash,A,A,B,D,other_distractor,Wordplay,History/Mythology
+16uuwk3,google/gemini-3.5-flash,D,D,D,A,correct,Sarcasm/Irony,meme
+1m61khr,google/gemini-3.5-flash,A,A,A,B,correct,Dark Humor,History/Mythology
+1muan3i,google/gemini-3.5-flash,C,C,C,A,correct,Surprise,General knowledge
+1g8raiu,google/gemini-3.5-flash,D,D,D,B,correct,Incongruity,meme
+16h1wrg,google/gemini-3.5-flash,B,B,B,A,correct,Wordplay,Technical
+1d0nows,google/gemini-3.5-flash,D,D,A,B,other_distractor,Dark Humor,Pop culture
+16zvi3l,google/gemini-3.5-flash,B,B,A,C,other_distractor,Surprise,Pop culture
+1fcm1zb,google/gemini-3.5-flash,A,A,A,C,correct,Wordplay,Social conventions
+1l0pn3b,google/gemini-3.5-flash,B,B,B,C,correct,Exaggeration,Social conventions
+193it8r,google/gemini-3.5-flash,C,C,B,A,other_distractor,Surprise,History/Mythology
+1dk358k,google/gemini-3.5-flash,B,B,D,A,other_distractor,Wordplay,Pop culture
+1ixuiml,google/gemini-3.5-flash,A,A,B,D,other_distractor,Surprise,Social conventions
+1hh0vwh,google/gemini-3.5-flash,B,B,B,D,correct,Wordplay,General knowledge
+15a2flm,google/gemini-3.5-flash,D,D,D,C,correct,Dark Humor,General knowledge
+1jd57jt,google/gemini-3.5-flash,C,C,C,A,correct,Sarcasm/Irony,Hobby
+1eerszi,google/gemini-3.5-flash,A,A,A,D,correct,Incongruity,Pop culture
+1ex2gnv,google/gemini-3.5-flash,D,D,D,A,correct,Incongruity,meme
+1n6ohcl,google/gemini-3.5-flash,B,B,A,C,other_distractor,Sarcasm/Irony,Technical
+1kc6xta,google/gemini-3.5-flash,C,C,C,B,correct,Comparison,meme
+1mk8rnt,google/gemini-3.5-flash,A,A,A,D,correct,Dark Humor,Pop culture
+1bojwn9,google/gemini-3.5-flash,C,C,D,B,other_distractor,Incongruity,Social conventions
+1m68ug3,google/gemini-3.5-flash,C,C,B,A,other_distractor,Exaggeration,History/Mythology
+1aqy5m7,google/gemini-3.5-flash,A,A,A,B,correct,Incongruity,General knowledge
+1jg3hi7,google/gemini-3.5-flash,B,B,B,D,correct,Incongruity,Pop culture
+1isy4zt,google/gemini-3.5-flash,D,D,D,C,correct,Wordplay,General knowledge
+19egkxy,google/gemini-3.5-flash,B,B,C,D,other_distractor,Comparison,Logical
+1gboomw,google/gemini-3.5-flash,D,D,D,C,correct,Dark Humor,Technical
+1jjvw9a,google/gemini-3.5-flash,A,A,A,C,correct,Sarcasm/Irony,History/Mythology
+1kcxst1,google/gemini-3.5-flash,B,B,B,D,correct,Surprise,History/Mythology
+1jj9t5b,google/gemini-3.5-flash,A,A,A,B,correct,Dark Humor,General knowledge
+1jaf822,google/gemini-3.5-flash,C,C,A,D,other_distractor,Surprise,Technical
+1k9sq1s,google/gemini-3.5-flash,A,A,A,C,correct,Dark Humor,General knowledge
+1jm74by,google/gemini-3.5-flash,C,C,C,D,correct,Comparison,General knowledge
+1cvso6z,google/gemini-3.5-flash,A,A,A,B,correct,Wordplay,meme
+1efztwz,google/gemini-3.5-flash,A,A,A,C,correct,Wordplay,Social conventions
+1lfy05f,google/gemini-3.5-flash,D,D,B,C,other_distractor,Sarcasm/Irony,General knowledge
+15oof8t,google/gemini-3.5-flash,C,C,C,D,correct,Incongruity,meme
+1e8xy5s,google/gemini-3.5-flash,D,D,D,B,correct,Dark Humor,Social conventions
+1918ki4,google/gemini-3.5-flash,A,A,A,D,correct,Dark Humor,Social conventions
+1ap3qmt,google/gemini-3.5-flash,C,C,C,B,correct,Incongruity,Pop culture
+1d670z1,google/gemini-3.5-flash,A,A,A,C,correct,Wordplay,General knowledge
+1aexlbt,google/gemini-3.5-flash,B,B,C,D,other_distractor,Wordplay,Technical
+1m5qq8q,google/gemini-3.5-flash,A,A,D,B,other_distractor,Comparison,Pop culture
+1moj7hc,google/gemini-3.5-flash,D,D,D,C,correct,Dark Humor,History/Mythology
+174k7i0,google/gemini-3.5-flash,A,A,A,D,correct,Incongruity,Technical
+1lqpazn,google/gemini-3.5-flash,A,A,B,C,other_distractor,Surprise,History/Mythology
+1ms7hs4,google/gemini-3.5-flash,B,B,B,A,correct,Dark Humor,Technical
+1j7mzha,google/gemini-3.5-flash,B,B,B,D,correct,Dark Humor,History/Mythology
+1i6ymv5,google/gemini-3.5-flash,C,C,A,D,other_distractor,Sarcasm/Irony,Social conventions
+1h9qk3m,google/gemini-3.5-flash,B,B,B,C,correct,Dark Humor,General knowledge
+1jcvxw6,google/gemini-3.5-flash,C,C,C,B,correct,Dark Humor,General knowledge
+18d37io,google/gemini-3.5-flash,D,D,B,C,other_distractor,Wordplay,Logical
+1iuuulu,google/gemini-3.5-flash,B,B,B,C,correct,Incongruity,Hobby
+1jvfqgq,google/gemini-3.5-flash,C,C,B,A,other_distractor,Dark Humor,politics
+164v3oo,google/gemini-3.5-flash,A,A,C,B,other_distractor,Surprise,Logical
+1n68buk,google/gemini-3.5-flash,C,C,B,A,other_distractor,Exaggeration,Hobby
+1lq3p3j,google/gemini-3.5-flash,D,D,D,C,correct,Dark Humor,Social conventions
+1ip0ht2,google/gemini-3.5-flash,A,A,B,C,other_distractor,Exaggeration,Hobby
+1khvtur,google/gemini-3.5-flash,B,B,B,C,correct,Exaggeration,Hobby
+18ae5ry,google/gemini-3.5-flash,A,A,A,B,correct,Wordplay,General knowledge
+1isa49u,google/gemini-3.5-flash,D,D,D,B,correct,Wordplay,History/Mythology
+1jvn2sr,google/gemini-3.5-flash,A,A,C,B,other_distractor,Dark Humor,Technical
+1eilsjt,google/gemini-3.5-flash,A,A,A,B,correct,Incongruity,General knowledge
+1fjfblb,google/gemini-3.5-flash,B,B,C,A,other_distractor,Exaggeration,Pop culture
+16k7baz,google/gemini-3.5-flash,A,A,A,C,correct,Dark Humor,Social conventions
+15gdv3c,google/gemini-3.5-flash,B,B,B,D,correct,Dark Humor,General knowledge
+1ajx3sn,google/gemini-3.5-flash,B,B,B,A,correct,Wordplay,Pop culture
+1cynp2h,google/gemini-3.5-flash,B,B,A,C,other_distractor,Sarcasm/Irony,Pop culture
+19bj5k2,google/gemini-3.5-flash,A,A,A,C,correct,Sarcasm/Irony,General knowledge
+1l79lv3,google/gemini-3.5-flash,D,D,D,B,correct,Dark Humor,Hobby
+16db363,google/gemini-3.5-flash,B,B,C,A,other_distractor,Sarcasm/Irony,Pop culture
+16l57ay,google/gemini-3.5-flash,D,D,B,A,other_distractor,Wordplay,History/Mythology
+1df3nh8,google/gemini-3.5-flash,D,D,D,B,correct,Dark Humor,History/Mythology
+1haf45x,google/gemini-3.5-flash,C,C,C,B,correct,Sarcasm/Irony,General knowledge
+1fzh8sa,google/gemini-3.5-flash,C,C,C,A,correct,Sarcasm/Irony,Pop culture
+1ijv4xn,google/gemini-3.5-flash,A,A,A,B,correct,Wordplay,General knowledge

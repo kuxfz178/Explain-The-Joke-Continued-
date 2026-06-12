@@ -1,0 +1,502 @@
+File,model,model_raw_answer,parsed_letter,correct_letter,literal_letter,status,humor_style,contextual_knowledge
+1actpx8,openai/gpt-5,D,D,D,C,correct,Sarcasm/Irony,Hobby
+1af8odu,openai/gpt-5,A,A,A,C,correct,Wordplay,Pop culture
+1ajzxfm,openai/gpt-5,B,B,B,D,correct,Comparison,Logical
+1amtoff,openai/gpt-5,A,A,A,C,correct,Incongruity,General knowledge
+1aoxsw3,openai/gpt-5,A,A,A,D,correct,Comparison,Technical
+1asrnb3,openai/gpt-5,B,B,B,C,correct,Exaggeration,Pop culture
+1aya611,openai/gpt-5,C,C,C,D,correct,Sarcasm/Irony,Social conventions
+1b03bqv,openai/gpt-5,D,D,D,C,correct,Incongruity,politics
+1b7unh0,openai/gpt-5,D,D,B,D,literal,Comparison,History/Mythology
+1be8p2s,openai/gpt-5,C,C,C,B,correct,Incongruity,Pop culture
+1bikyy1,openai/gpt-5,A,A,A,B,correct,Sarcasm/Irony,History/Mythology
+1bl3eve,openai/gpt-5,C,C,C,A,correct,Incongruity,Hobby
+1bmtc5u,openai/gpt-5,C,C,C,D,correct,Incongruity,Social conventions
+1bsdc0l,openai/gpt-5,C,C,A,D,other_distractor,Comparison,History/Mythology
+1bw9tb7,openai/gpt-5,D,D,C,B,other_distractor,Comparison,General knowledge
+1c1tpnf,openai/gpt-5,B,B,B,D,correct,Incongruity,meme
+1c6zoan,openai/gpt-5,C,C,D,B,other_distractor,Sarcasm/Irony,Pop culture
+1c22s8b,openai/gpt-5,B,B,B,A,correct,Incongruity,Pop culture
+1c175gf,openai/gpt-5,D,D,B,D,literal,Sarcasm/Irony,politics
+1ccfha2,openai/gpt-5,C,C,A,B,other_distractor,Sarcasm/Irony,politics
+1cehmmt,openai/gpt-5,A,A,B,A,literal,Situational,Pop culture
+1cgcw31,openai/gpt-5,B,B,B,D,correct,Exaggeration,Pop culture
+1jfy6ms,openai/gpt-5,A,A,A,C,correct,Wordplay,Pop culture
+1eae89f,openai/gpt-5,D,D,D,B,correct,Exaggeration,Hobby
+1iw42ka,openai/gpt-5,C,C,C,D,correct,Exaggeration,Pop culture
+1k4fjdr,openai/gpt-5,D,D,A,D,literal,Wordplay,Logical
+1l4mpmj,openai/gpt-5,A,A,A,D,correct,Situational,Social conventions
+1k0el7w,openai/gpt-5,C,C,C,B,correct,Situational,Hobby
+15h4szq,openai/gpt-5,C,C,D,C,literal,Comparison,History/Mythology
+1k70gfk,openai/gpt-5,D,D,D,A,correct,Exaggeration,politics
+1jaa0tw,openai/gpt-5,A,A,B,A,literal,Comparison,History/Mythology
+1m0a4hv,openai/gpt-5,D,D,C,A,other_distractor,Sarcasm/Irony,History/Mythology
+1hvaqk7,openai/gpt-5,D,D,D,C,correct,Incongruity,meme
+1kw3buz,openai/gpt-5,B,B,B,C,correct,Wordplay,Logical
+1blxcsy,openai/gpt-5,D,D,C,D,literal,Situational,Pop culture
+1cskltc,openai/gpt-5,A,A,A,D,correct,Wordplay,Pop culture
+1kqwlgj,openai/gpt-5,A,A,A,C,correct,Exaggeration,Technical
+15yqaf6,openai/gpt-5,A,A,A,C,correct,Incongruity,Technical
+1fycaf4,openai/gpt-5,B,B,B,D,correct,Situational,Logical
+1cpvjc7,openai/gpt-5,A,A,C,A,literal,Sarcasm/Irony,Technical
+1bur7j0,openai/gpt-5,B,B,B,C,correct,Situational,Pop culture
+1co83ht,openai/gpt-5,C,C,C,D,correct,Incongruity,Social conventions
+1cwrltm,openai/gpt-5,C,C,C,D,correct,Dark Humor,Pop culture
+1cym2ue,openai/gpt-5,D,D,A,C,other_distractor,Exaggeration,Pop culture
+1d2jxbw,openai/gpt-5,C,C,C,B,correct,Incongruity,General knowledge
+1d6ho4f,openai/gpt-5,D,D,B,C,other_distractor,Incongruity,General knowledge
+1d8sg9b,openai/gpt-5,D,D,D,C,correct,Exaggeration,Logical
+1d98tf9,openai/gpt-5,A,A,D,C,other_distractor,Dark Humor,politics
+1dbipgs,openai/gpt-5,A,A,D,C,other_distractor,Exaggeration,Logical
+1dfrh37,openai/gpt-5,D,D,D,B,correct,Incongruity,Hobby
+1di1z94,openai/gpt-5,A,A,A,C,correct,Exaggeration,Social conventions
+1dk6kds,openai/gpt-5,C,C,B,D,other_distractor,Dark Humor,Pop culture
+1dlzvsx,openai/gpt-5,D,D,D,A,correct,Comparison,Logical
+1do7yvv,openai/gpt-5,C,C,C,D,correct,Incongruity,Logical
+1dr9jg6,openai/gpt-5,D,D,A,B,other_distractor,Situational,Pop culture
+1dtmedg,openai/gpt-5,B,B,A,C,other_distractor,Situational,Social conventions
+1dwa7tj,openai/gpt-5,D,D,D,C,correct,Dark Humor,History/Mythology
+1e0k66e,openai/gpt-5,B,B,B,C,correct,Wordplay,Technical
+1e2qvt9,openai/gpt-5,C,C,C,B,correct,Exaggeration,Social conventions
+1e6m88u,openai/gpt-5,B,B,B,A,correct,Comparison,Pop culture
+1ea5yhw,openai/gpt-5,A,A,A,D,correct,Exaggeration,politics
+1eeayas,openai/gpt-5,B,B,B,A,correct,Sarcasm/Irony,History/Mythology
+1efs65o,openai/gpt-5,B,B,B,D,correct,Comparison,Hobby
+1eko6xo,openai/gpt-5,C,C,C,B,correct,Comparison,Pop culture
+1elhse8,openai/gpt-5,A,A,B,D,other_distractor,Exaggeration,Logical
+1eq297i,openai/gpt-5,B,B,B,C,correct,Exaggeration,politics
+1et8l0q,openai/gpt-5,C,C,C,B,correct,Incongruity,Logical
+1ex1lej,openai/gpt-5,D,D,D,C,correct,Exaggeration,General knowledge
+1f0qs2a,openai/gpt-5,B,B,B,D,correct,Incongruity,General knowledge
+1f4tmhz,openai/gpt-5,D,D,D,C,correct,Sarcasm/Irony,Logical
+1f16w9p,openai/gpt-5,C,C,C,D,correct,Situational,General knowledge
+1fa202w,openai/gpt-5,C,C,C,D,correct,Exaggeration,Hobby
+1fbym0h,openai/gpt-5,B,B,D,B,literal,Comparison,Social conventions
+1fdg0i5,openai/gpt-5,D,D,D,A,correct,Dark Humor,politics
+1fg38dp,openai/gpt-5,B,B,B,A,correct,Exaggeration,Logical
+1fm0tjo,openai/gpt-5,C,C,C,D,correct,Exaggeration,Logical
+1fs6ndo,openai/gpt-5,B,B,B,D,correct,Comparison,Hobby
+1fo91u1,openai/gpt-5,D,D,D,B,correct,Situational,Logical
+1fst6nb,openai/gpt-5,B,B,B,C,correct,Comparison,politics
+1fu3pp1,openai/gpt-5,C,C,C,B,correct,Incongruity,Technical
+1fuxrbx,openai/gpt-5,A,A,A,C,correct,Wordplay,Hobby
+1fwbzz9,openai/gpt-5,A,A,A,C,correct,Situational,politics
+1fxqzyt,openai/gpt-5,B,B,B,D,correct,Wordplay,Social conventions
+1g02nzf,openai/gpt-5,D,D,D,B,correct,Situational,History/Mythology
+1g7yhzc,openai/gpt-5,A,A,A,C,correct,Exaggeration,Social conventions
+1g4657e,openai/gpt-5,A,A,B,C,other_distractor,Incongruity,History/Mythology
+1gazv8u,openai/gpt-5,A,A,B,D,other_distractor,Dark Humor,politics
+1gidb47,openai/gpt-5,A,A,B,D,other_distractor,Situational,Technical
+1gop1dk,openai/gpt-5,A,A,D,B,other_distractor,Exaggeration,Social conventions
+1gqh1c5,openai/gpt-5,D,D,D,C,correct,Situational,Social conventions
+1gs87cm,openai/gpt-5,C,C,C,D,correct,Situational,Pop culture
+1guacve,openai/gpt-5,C,C,A,B,other_distractor,Exaggeration,Social conventions
+1gx0pu0,openai/gpt-5,D,D,D,A,correct,Comparison,Hobby
+1gz2i0o,openai/gpt-5,C,C,C,D,correct,Exaggeration,History/Mythology
+1gzkbbi,openai/gpt-5,D,D,D,C,correct,Comparison,politics
+1h5a44z,openai/gpt-5,A,A,A,D,correct,Comparison,Pop culture
+1h7di4x,openai/gpt-5,C,C,C,D,correct,Wordplay,Logical
+1h8d39n,openai/gpt-5,D,D,A,D,literal,Comparison,Hobby
+1h52vkf,openai/gpt-5,D,D,A,D,literal,Comparison,General knowledge
+1hfggtz,openai/gpt-5,B,B,B,A,correct,Comparison,Technical
+1hmbnol,openai/gpt-5,D,D,D,B,correct,Comparison,Technical
+1hqtnop,openai/gpt-5,A,A,A,C,correct,Wordplay,politics
+1huqauz,openai/gpt-5,B,B,B,A,correct,Incongruity,Hobby
+1i5ve1j,openai/gpt-5,C,C,C,B,correct,Comparison,History/Mythology
+1iad0kh,openai/gpt-5,B,B,B,D,correct,Exaggeration,Technical
+1ibz4bh,openai/gpt-5,D,D,D,A,correct,Incongruity,Technical
+1ig7lnf,openai/gpt-5,D,D,D,C,correct,Incongruity,meme
+1inxmb2,openai/gpt-5,A,A,A,C,correct,Comparison,meme
+1iri57s,openai/gpt-5,C,C,C,A,correct,Surprise,Social conventions
+1iv0i8s,openai/gpt-5,B,B,B,D,correct,Situational,Logical
+1h626bt,openai/gpt-5,C,C,C,A,correct,Wordplay,Hobby
+1hcpvbz,openai/gpt-5,A,A,A,B,correct,Situational,Pop culture
+1izj4eu,openai/gpt-5,A,A,D,A,literal,Incongruity,politics
+1j983b2,openai/gpt-5,A,A,A,D,correct,Comparison,Social conventions
+1jaysny,openai/gpt-5,D,D,D,A,correct,Incongruity,Hobby
+1jh5toe,openai/gpt-5,D,D,D,A,correct,Exaggeration,Social conventions
+1jjiqlq,openai/gpt-5,A,A,A,C,correct,Sarcasm/Irony,Social conventions
+1k25b9s,openai/gpt-5,A,A,A,D,correct,Comparison,History/Mythology
+1kgak2u,openai/gpt-5,C,C,C,D,correct,Comparison,Technical
+1mbnnpw,openai/gpt-5,B,B,B,D,correct,Surprise,General knowledge
+17pg0fe,openai/gpt-5,B,B,D,B,literal,Exaggeration,Pop culture
+1l8vajl,openai/gpt-5,C,C,C,B,correct,Comparison,Hobby
+1c38j1b,openai/gpt-5,D,D,D,A,correct,Comparison,Logical
+1bdho8z,openai/gpt-5,B,B,B,C,correct,Exaggeration,Social conventions
+1naurrn,openai/gpt-5,D,D,D,B,correct,Comparison,Technical
+1mfr9vy,openai/gpt-5,B,B,B,C,correct,Situational,Social conventions
+1m241pn,openai/gpt-5,B,B,B,D,correct,Dark Humor,Social conventions
+1m9u48i,openai/gpt-5,C,C,D,B,other_distractor,Incongruity,Hobby
+1m7b5bx,openai/gpt-5,B,B,B,A,correct,Surprise,politics
+1lttuji,openai/gpt-5,C,C,D,A,other_distractor,Incongruity,Pop culture
+1ljrgbw,openai/gpt-5,D,D,D,A,correct,Surprise,Social conventions
+1k6ds0q,openai/gpt-5,C,C,C,B,correct,Sarcasm/Irony,Social conventions
+1bk0w4q,openai/gpt-5,A,A,C,A,literal,Surprise,politics
+1heeibu,openai/gpt-5,A,A,A,D,correct,Incongruity,meme
+1fvpb5q,openai/gpt-5,D,D,D,B,correct,Dark Humor,politics
+184f4hh,openai/gpt-5,C,C,C,B,correct,Comparison,Hobby
+1mzfdhh,openai/gpt-5,C,C,C,A,correct,Situational,Hobby
+1l1hxof,openai/gpt-5,C,C,D,C,literal,Incongruity,Social conventions
+1kjg3vh,openai/gpt-5,B,B,B,C,correct,Dark Humor,Logical
+1k4lzxj,openai/gpt-5,C,C,C,B,correct,Sarcasm/Irony,politics
+1j0w1z3,openai/gpt-5,A,A,B,A,literal,Comparison,meme
+1irxw6j,openai/gpt-5,B,B,D,B,literal,Dark Humor,History/Mythology
+1ird7yb,openai/gpt-5,B,B,C,A,other_distractor,Exaggeration,Hobby
+169oqq5,openai/gpt-5,D,D,D,B,correct,Wordplay,General knowledge
+1co29mb,openai/gpt-5,D,D,D,C,correct,Wordplay,Pop culture
+19eokbq,openai/gpt-5,C,C,C,A,correct,Situational,General knowledge
+1c3z5ld,openai/gpt-5,D,D,C,D,literal,Situational,Hobby
+1dxonad,openai/gpt-5,B,B,B,C,correct,Wordplay,General knowledge
+1cbcpxn,openai/gpt-5,D,D,D,C,correct,Situational,Hobby
+194s3gh,openai/gpt-5,C,C,A,C,literal,Exaggeration,meme
+1ipozgr,openai/gpt-5,D,D,D,B,correct,Situational,General knowledge
+1n7s8ht,openai/gpt-5,D,D,D,A,correct,Exaggeration,History/Mythology
+1bvyaep,openai/gpt-5,A,A,A,C,correct,Surprise,History/Mythology
+1587f2g,openai/gpt-5,A,A,A,D,correct,Exaggeration,Technical
+177cl97,openai/gpt-5,D,D,D,A,correct,Situational,Technical
+1jhyaz4,openai/gpt-5,C,C,C,B,correct,Exaggeration,General knowledge
+1fssuxj,openai/gpt-5,C,C,A,C,literal,Wordplay,Logical
+1fwc8sk,openai/gpt-5,B,B,B,A,correct,Situational,Pop culture
+195f4ld,openai/gpt-5,D,D,A,C,other_distractor,Surprise,meme
+1key5qt,openai/gpt-5,C,C,B,C,literal,Incongruity,Pop culture
+1jzigfy,openai/gpt-5,D,D,D,C,correct,Sarcasm/Irony,General knowledge
+192wp5d,openai/gpt-5,C,C,C,D,correct,Incongruity,Social conventions
+1hql3cv,openai/gpt-5,D,D,D,A,correct,Wordplay,General knowledge
+1mluk7a,openai/gpt-5,A,A,A,B,correct,Dark Humor,History/Mythology
+1mpg380,openai/gpt-5,B,B,B,A,correct,Situational,Hobby
+1eexgq9,openai/gpt-5,C,C,C,D,correct,Dark Humor,History/Mythology
+1cs870m,openai/gpt-5,B,B,B,A,correct,Wordplay,General knowledge
+1g1cv45,openai/gpt-5,B,B,B,UNKNOWN,correct,Comparison,meme
+1g2ofgo,openai/gpt-5,B,B,A,D,other_distractor,Situational,History/Mythology
+1jzu8un,openai/gpt-5,C,C,C,B,correct,Surprise,Technical
+1gvvhs3,openai/gpt-5,A,A,A,B,correct,Wordplay,Social conventions
+1l22d3q,openai/gpt-5,C,C,C,B,correct,Sarcasm/Irony,Pop culture
+1j289je,openai/gpt-5,D,D,D,C,correct,Incongruity,General knowledge
+1ga3uxo,openai/gpt-5,A,A,A,D,correct,Surprise,Technical
+1l99mtp,openai/gpt-5,D,D,A,D,literal,Situational,Technical
+1hjwowy,openai/gpt-5,C,C,D,C,literal,Exaggeration,Social conventions
+1ii3g3t,openai/gpt-5,A,A,D,A,literal,Dark Humor,History/Mythology
+1h7ih54,openai/gpt-5,A,A,B,A,literal,Comparison,Pop culture
+1eglfe7,openai/gpt-5,C,C,A,B,other_distractor,Surprise,Technical
+1jdq5gi,openai/gpt-5,C,C,C,UNKNOWN,correct,Wordplay,Social conventions
+1jykoxc,openai/gpt-5,C,C,B,D,other_distractor,Wordplay,General knowledge
+1il72ww,openai/gpt-5,B,B,B,C,correct,Sarcasm/Irony,Social conventions
+1g3admg,openai/gpt-5,C,C,B,A,other_distractor,Situational,meme
+1kpj6mq,openai/gpt-5,A,A,A,B,correct,Comparison,Pop culture
+1gp140e,openai/gpt-5,D,D,D,A,correct,Surprise,meme
+1it3ezt,openai/gpt-5,C,C,A,D,other_distractor,Wordplay,Technical
+1ceuuuh,openai/gpt-5,A,A,A,C,correct,Sarcasm/Irony,politics
+1bk5jkq,openai/gpt-5,D,D,C,D,literal,Surprise,Technical
+1az5r39,openai/gpt-5,C,C,D,C,literal,Comparison,politics
+1hauo6q,openai/gpt-5,B,B,A,B,literal,Dark Humor,politics
+1jtym4e,openai/gpt-5,A,A,A,D,correct,Dark Humor,politics
+1l4x3e6,openai/gpt-5,B,B,B,C,correct,Surprise,politics
+1mahcad,openai/gpt-5,B,B,B,C,correct,Wordplay,General knowledge
+1j0n4gg,openai/gpt-5,C,C,D,C,literal,Surprise,politics
+1hbogj4,openai/gpt-5,C,C,D,A,other_distractor,Dark Humor,politics
+1flb4nk,openai/gpt-5,D,D,D,A,correct,Surprise,History/Mythology
+1dhf9h2,openai/gpt-5,A,A,A,B,correct,Surprise,politics
+1c01lei,openai/gpt-5,A,A,B,A,literal,Dark Humor,politics
+1d7u657,openai/gpt-5,B,B,B,D,correct,Sarcasm/Irony,politics
+1dv83hh,openai/gpt-5,C,C,C,A,correct,Dark Humor,politics
+1cdufsh,openai/gpt-5,B,B,C,A,other_distractor,Sarcasm/Irony,politics
+13ibrc1,openai/gpt-5,A,A,A,C,correct,Comparison,Logical
+1m56k4v,openai/gpt-5,A,A,B,D,other_distractor,Surprise,Technical
+1mbrsfx,openai/gpt-5,B,B,C,B,literal,Surprise,meme
+1lnme9d,openai/gpt-5,A,A,D,C,other_distractor,Surprise,History/Mythology
+1lhnwl4,openai/gpt-5,C,C,A,B,other_distractor,Incongruity,politics
+1lcutci,openai/gpt-5,B,B,A,B,literal,Comparison,politics
+1lmltqs,openai/gpt-5,D,D,A,C,other_distractor,Surprise,meme
+1lgqywl,openai/gpt-5,A,A,A,C,correct,Dark Humor,History/Mythology
+1l8fck5,openai/gpt-5,C,C,C,A,correct,Surprise,Logical
+1if88s3,openai/gpt-5,C,C,C,D,correct,Wordplay,Technical
+1jpn69p,openai/gpt-5,D,D,D,A,correct,Comparison,Technical
+1fs7uqa,openai/gpt-5,C,C,C,D,correct,Surprise,politics
+1k6qo63,openai/gpt-5,D,D,C,B,other_distractor,Comparison,Technical
+1ku0frm,openai/gpt-5,D,D,D,B,correct,Wordplay,Logical
+1mj26iu,openai/gpt-5,D,D,D,C,correct,Wordplay,Logical
+1agsl73,openai/gpt-5,D,D,D,A,correct,Wordplay,History/Mythology
+1cqzlzh,openai/gpt-5,C,C,C,A,correct,Sarcasm/Irony,History/Mythology
+1m55hez,openai/gpt-5,B,B,A,C,other_distractor,Dark Humor,Logical
+1arjiwr,openai/gpt-5,D,D,C,D,literal,Comparison,politics
+1jny20o,openai/gpt-5,C,C,D,B,other_distractor,Sarcasm/Irony,Logical
+1josjz1,openai/gpt-5,C,C,C,D,correct,Wordplay,politics
+1m83zvy,openai/gpt-5,B,B,B,D,correct,Comparison,Hobby
+1m3s0a4,openai/gpt-5,B,B,C,B,literal,Sarcasm/Irony,History/Mythology
+15vbd1p,openai/gpt-5,D,D,D,C,correct,Dark Humor,Logical
+1mhtv4z,openai/gpt-5,B,B,C,B,literal,Dark Humor,Hobby
+1mkomql,openai/gpt-5,D,D,B,A,other_distractor,Sarcasm/Irony,meme
+1narr2o,openai/gpt-5,D,D,B,C,other_distractor,Sarcasm/Irony,Logical
+1n0my5r,openai/gpt-5,A,A,A,C,correct,Surprise,Hobby
+1k5a33w,openai/gpt-5,B,B,B,A,correct,Sarcasm/Irony,meme
+1k5wejp,openai/gpt-5,C,C,B,C,literal,Surprise,Hobby
+1k4ukvi,openai/gpt-5,D,D,D,B,correct,Sarcasm/Irony,General knowledge
+1kehvhj,openai/gpt-5,A,A,A,C,correct,Exaggeration,History/Mythology
+1keqvzx,openai/gpt-5,D,D,D,B,correct,Dark Humor,Logical
+1kpfg74,openai/gpt-5,C,C,C,D,correct,Sarcasm/Irony,History/Mythology
+1kidi8e,openai/gpt-5,C,C,B,A,other_distractor,Sarcasm/Irony,Technical
+1kjlggg,openai/gpt-5,B,B,B,C,correct,Dark Humor,politics
+1kqcllz,openai/gpt-5,C,C,B,D,other_distractor,Sarcasm/Irony,Logical
+1jwjneb,openai/gpt-5,C,C,C,D,correct,Comparison,Hobby
+1kpua4s,openai/gpt-5,C,C,C,D,correct,Surprise,Hobby
+1l7z6gs,openai/gpt-5,C,C,C,B,correct,Sarcasm/Irony,Social conventions
+1asecwa,openai/gpt-5,C,C,C,D,correct,Dark Humor,Technical
+1i38yhn,openai/gpt-5,A,A,B,A,literal,Situational,Hobby
+1bpefe3,openai/gpt-5,C,C,C,D,correct,Wordplay,Logical
+1esw67r,openai/gpt-5,A,A,A,C,correct,Wordplay,Logical
+1fkmtz4,openai/gpt-5,B,B,B,A,correct,Dark Humor,Technical
+1c43fea,openai/gpt-5,A,A,B,A,literal,Dark Humor,Hobby
+1czson4,openai/gpt-5,C,C,C,B,correct,Sarcasm/Irony,Technical
+1dcyo13,openai/gpt-5,D,D,D,C,correct,Dark Humor,politics
+1fvuj7k,openai/gpt-5,A,A,A,C,correct,Exaggeration,Hobby
+1gtbssx,openai/gpt-5,C,C,C,B,correct,Dark Humor,Hobby
+1htm33y,openai/gpt-5,B,B,C,B,literal,Wordplay,Logical
+1hw0vwf,openai/gpt-5,C,C,A,C,literal,Wordplay,Logical
+1kw5fto,openai/gpt-5,B,B,B,D,correct,Surprise,politics
+1k9xaf4,openai/gpt-5,B,B,A,D,other_distractor,Sarcasm/Irony,politics
+1jmn6xg,openai/gpt-5,C,C,A,C,literal,Sarcasm/Irony,politics
+1j5j7q8,openai/gpt-5,B,B,B,D,correct,Sarcasm/Irony,politics
+1itzxo7,openai/gpt-5,D,D,D,A,correct,Sarcasm/Irony,History/Mythology
+1ibyirm,openai/gpt-5,A,A,D,A,literal,Sarcasm/Irony,politics
+1ijlh5e,openai/gpt-5,B,B,D,B,literal,Situational,politics
+1ih9bat,openai/gpt-5,D,D,D,A,correct,Sarcasm/Irony,Logical
+1j1lc01,openai/gpt-5,B,B,C,B,literal,Surprise,Hobby
+1j9svdf,openai/gpt-5,C,C,C,D,correct,Dark Humor,History/Mythology
+1jwvcno,openai/gpt-5,B,B,C,B,literal,Dark Humor,History/Mythology
+1kxar4d,openai/gpt-5,C,C,B,C,literal,Dark Humor,politics
+1m0b8uv,openai/gpt-5,A,A,C,D,other_distractor,Incongruity,politics
+19994ey,openai/gpt-5,C,C,C,D,correct,Exaggeration,politics
+18dba0l,openai/gpt-5,D,D,D,C,correct,Wordplay,Hobby
+1lppcyj,openai/gpt-5,B,B,B,A,correct,Situational,General knowledge
+1h066h6,openai/gpt-5,D,D,D,C,correct,Situational,Technical
+1kjzy1y,openai/gpt-5,A,A,A,C,correct,Wordplay,General knowledge
+1c341d5,openai/gpt-5,B,B,C,A,other_distractor,Exaggeration,General knowledge
+17930bw,openai/gpt-5,A,A,A,B,correct,Wordplay,General knowledge
+1lfe3gp,openai/gpt-5,D,D,C,D,literal,Exaggeration,politics
+19dbf08,openai/gpt-5,A,A,A,D,correct,Sarcasm/Irony,History/Mythology
+1ly2yui,openai/gpt-5,C,C,C,B,correct,Incongruity,Technical
+1bnyn39,openai/gpt-5,C,C,A,C,literal,Sarcasm/Irony,Pop culture
+1jczpuc,openai/gpt-5,C,C,D,C,literal,Sarcasm/Irony,Hobby
+1hy2gti,openai/gpt-5,A,A,A,B,correct,Situational,Hobby
+1h53lb4,openai/gpt-5,C,C,D,A,other_distractor,Dark Humor,meme
+1joifiq,openai/gpt-5,A,A,D,B,other_distractor,Surprise,Technical
+1iad95m,openai/gpt-5,B,B,D,A,other_distractor,Exaggeration,Pop culture
+1aekqdo,openai/gpt-5,D,D,B,A,other_distractor,Sarcasm/Irony,History/Mythology
+1n2ae1w,openai/gpt-5,A,A,D,C,other_distractor,Exaggeration,politics
+198awkk,openai/gpt-5,A,A,A,B,correct,Wordplay,General knowledge
+1l5rutv,openai/gpt-5,A,A,A,C,correct,Surprise,Social conventions
+1b2nrx4,openai/gpt-5,C,C,C,A,correct,Exaggeration,Social conventions
+1kfy8l5,openai/gpt-5,C,C,D,A,other_distractor,Incongruity,politics
+1kvenyk,openai/gpt-5,C,C,A,C,literal,Sarcasm/Irony,History/Mythology
+1j6onpg,openai/gpt-5,D,D,B,A,other_distractor,Incongruity,Social conventions
+1j3kbpk,openai/gpt-5,C,C,B,A,other_distractor,Dark Humor,General knowledge
+180j85r,openai/gpt-5,B,B,C,D,other_distractor,Dark Humor,Technical
+1c8be16,openai/gpt-5,A,A,B,D,other_distractor,Surprise,History/Mythology
+14ys2z4,openai/gpt-5,B,B,D,B,literal,Situational,politics
+1kbjn4z,openai/gpt-5,B,B,B,D,correct,Dark Humor,Pop culture
+1jjo04h,openai/gpt-5,D,D,C,D,literal,Incongruity,meme
+1lofpc4,openai/gpt-5,D,D,D,B,correct,Incongruity,meme
+1cj9j9z,openai/gpt-5,D,D,C,B,other_distractor,Sarcasm/Irony,History/Mythology
+1lejj62,openai/gpt-5,D,D,C,D,literal,Exaggeration,Pop culture
+1cb769r,openai/gpt-5,B,B,B,C,correct,Sarcasm/Irony,Hobby
+15aafk0,openai/gpt-5,B,B,A,C,other_distractor,Sarcasm/Irony,Pop culture
+17aswoo,openai/gpt-5,A,A,A,D,correct,Incongruity,meme
+1lh0gn3,openai/gpt-5,B,B,A,D,other_distractor,Sarcasm/Irony,meme
+1h779tg,openai/gpt-5,C,C,A,C,literal,Comparison,Pop culture
+1ftatdh,openai/gpt-5,C,C,B,D,other_distractor,Exaggeration,History/Mythology
+1hwftqw,openai/gpt-5,B,B,B,A,correct,Dark Humor,meme
+186tj6c,openai/gpt-5,B,B,A,C,other_distractor,Wordplay,Technical
+1hqjjs0,openai/gpt-5,C,C,A,B,other_distractor,Surprise,Pop culture
+1mwbbsw,openai/gpt-5,D,D,A,C,other_distractor,Wordplay,Logical
+1h03n16,openai/gpt-5,D,D,A,D,literal,Incongruity,Technical
+1b5u72j,openai/gpt-5,C,C,C,D,correct,Exaggeration,meme
+1kdp49k,openai/gpt-5,A,A,D,B,other_distractor,Incongruity,Social conventions
+1kyy4wf,openai/gpt-5,D,D,B,A,other_distractor,Incongruity,politics
+1j5stzi,openai/gpt-5,A,A,D,A,literal,Incongruity,meme
+1n8xv5g,openai/gpt-5,B,B,A,D,other_distractor,Surprise,politics
+1gmxl68,openai/gpt-5,B,B,B,C,correct,Exaggeration,General knowledge
+1iu9i31,openai/gpt-5,B,B,C,A,other_distractor,Dark Humor,meme
+1ftdy3c,openai/gpt-5,D,D,D,B,correct,Surprise,Logical
+1lt2euq,openai/gpt-5,D,D,D,A,correct,Exaggeration,Pop culture
+1gp5i8t,openai/gpt-5,D,D,D,A,correct,Exaggeration,General knowledge
+1j6bl5f,openai/gpt-5,A,A,D,A,literal,Comparison,Hobby
+1iz5ool,openai/gpt-5,A,A,A,C,correct,Dark Humor,politics
+1kfloer,openai/gpt-5,A,A,D,A,literal,Surprise,Logical
+1l3sh3k,openai/gpt-5,B,B,B,A,correct,Situational,Pop culture
+1kbvz8k,openai/gpt-5,C,C,C,D,correct,Situational,General knowledge
+1llqmsk,openai/gpt-5,D,D,C,UNKNOWN,wrong_literal_unknown,Surprise,History/Mythology
+1i5ptep,openai/gpt-5,C,C,C,A,correct,Situational,Social conventions
+1jwed8c,openai/gpt-5,C,C,B,C,literal,Surprise,meme
+1lavhpu,openai/gpt-5,A,A,D,A,literal,Exaggeration,History/Mythology
+1mh20fz,openai/gpt-5,C,C,C,A,correct,Surprise,Hobby
+1iu9a7u,openai/gpt-5,C,C,C,D,correct,Situational,Hobby
+1c7z583,openai/gpt-5,C,C,D,B,other_distractor,Dark Humor,Technical
+1j8se9s,openai/gpt-5,B,B,A,B,literal,Exaggeration,General knowledge
+1l45vl2,openai/gpt-5,A,A,A,B,correct,Situational,Logical
+1j7llre,openai/gpt-5,C,C,D,C,literal,Comparison,Logical
+1kgwdyt,openai/gpt-5,C,C,C,D,correct,Situational,Logical
+1k0nmen,openai/gpt-5,B,B,B,D,correct,Comparison,meme
+1kyo5pv,openai/gpt-5,D,D,A,D,literal,Comparison,Hobby
+1krtkl7,openai/gpt-5,D,D,D,A,correct,Situational,Social conventions
+1fhormb,openai/gpt-5,D,D,A,D,literal,Surprise,Hobby
+1iw106j,openai/gpt-5,C,C,C,UNKNOWN,correct,Comparison,Pop culture
+1ikp7ob,openai/gpt-5,B,B,B,C,correct,Sarcasm/Irony,Social conventions
+1iizrp4,openai/gpt-5,C,C,C,B,correct,Wordplay,politics
+1jgbtbp,openai/gpt-5,A,A,A,B,correct,Incongruity,History/Mythology
+1kse8n2,openai/gpt-5,C,C,C,D,correct,Comparison,Pop culture
+1dgwejg,openai/gpt-5,B,B,B,D,correct,Comparison,Social conventions
+1hhkhlc,openai/gpt-5,D,D,D,C,correct,Comparison,General knowledge
+1l5ixzd,openai/gpt-5,B,B,B,C,correct,Situational,Logical
+1jmzzco,openai/gpt-5,A,A,A,C,correct,Sarcasm/Irony,meme
+1jx5y8q,openai/gpt-5,A,A,D,B,other_distractor,Situational,Logical
+1jeeg3m,openai/gpt-5,C,C,C,A,correct,Surprise,Pop culture
+1mngo9t,openai/gpt-5,A,A,C,A,literal,Situational,Pop culture
+1knbdga,openai/gpt-5,C,C,C,A,correct,Surprise,Technical
+1grd05j,openai/gpt-5,B,B,B,D,correct,Comparison,Social conventions
+1fy9pjo,openai/gpt-5,A,A,A,C,correct,Dark Humor,General knowledge
+1jfnlgd,openai/gpt-5,D,D,A,D,literal,Dark Humor,Social conventions
+1kafv5j,openai/gpt-5,A,A,A,D,correct,Dark Humor,Pop culture
+1d7x2rg,openai/gpt-5,C,C,C,A,correct,Situational,Logical
+1jp8wst,openai/gpt-5,B,B,D,B,literal,Dark Humor,History/Mythology
+1kw2p1y,openai/gpt-5,D,D,C,D,literal,Surprise,Logical
+1k27mne,openai/gpt-5,A,A,A,B,correct,Dark Humor,Hobby
+1duiywi,openai/gpt-5,D,D,C,A,other_distractor,Incongruity,Technical
+1jzk0f2,openai/gpt-5,D,D,D,B,correct,Situational,Pop culture
+1l6ov5y,openai/gpt-5,C,C,C,A,correct,Situational,Hobby
+1d5bxcu,openai/gpt-5,B,B,B,C,correct,Dark Humor,meme
+1fvg71d,openai/gpt-5,B,B,B,A,correct,Comparison,History/Mythology
+1j25t67,openai/gpt-5,C,C,B,D,other_distractor,Wordplay,meme
+1jipmfo,openai/gpt-5,D,D,D,A,correct,Surprise,Hobby
+1fl51f0,openai/gpt-5,B,B,B,D,correct,Surprise,Social conventions
+1kxmxbf,openai/gpt-5,C,C,C,D,correct,Exaggeration,History/Mythology
+1kpsba8,openai/gpt-5,A,A,A,C,correct,Situational,Social conventions
+1klgmos,openai/gpt-5,D,D,D,C,correct,Exaggeration,General knowledge
+1jk2lgw,openai/gpt-5,D,D,C,D,literal,Sarcasm/Irony,meme
+1jpmmd9,openai/gpt-5,C,C,C,A,correct,Wordplay,Social conventions
+1j0k484,openai/gpt-5,D,D,D,B,correct,Wordplay,Technical
+1jtq5lb,openai/gpt-5,B,B,B,D,correct,Wordplay,General knowledge
+1lbduvg,openai/gpt-5,D,D,D,A,correct,Comparison,Hobby
+1g41h0e,openai/gpt-5,C,C,D,A,other_distractor,Surprise,Technical
+1kjzqgk,openai/gpt-5,D,D,D,A,correct,Situational,Hobby
+1mxibps,openai/gpt-5,B,B,B,A,correct,Comparison,Pop culture
+1c4n4xd,openai/gpt-5,B,B,B,A,correct,Situational,Logical
+1m4ns1d,openai/gpt-5,B,B,B,D,correct,Comparison,Technical
+1ljwpph,openai/gpt-5,A,A,A,D,correct,Wordplay,General knowledge
+1kczb4x,openai/gpt-5,C,C,C,A,correct,Exaggeration,Social conventions
+1mcgb86,openai/gpt-5,A,A,C,UNKNOWN,wrong_literal_unknown,Situational,Social conventions
+1i7iklj,openai/gpt-5,C,C,C,D,correct,Situational,Technical
+18lkyqa,openai/gpt-5,C,C,C,B,correct,Exaggeration,Social conventions
+1kmjd7k,openai/gpt-5,B,B,B,D,correct,Incongruity,Pop culture
+1j6w01m,openai/gpt-5,A,A,A,C,correct,Situational,Technical
+1itmj5l,openai/gpt-5,C,C,B,A,other_distractor,Situational,Technical
+1d11llv,openai/gpt-5,A,A,D,A,literal,Situational,Social conventions
+1dap4il,openai/gpt-5,C,C,A,C,literal,Dark Humor,Pop culture
+1mcy7yd,openai/gpt-5,A,A,A,D,correct,Comparison,Social conventions
+1g2fiqh,openai/gpt-5,C,C,C,D,correct,Situational,meme
+1itwe3y,openai/gpt-5,B,B,D,A,other_distractor,Situational,Technical
+1l8fcur,openai/gpt-5,D,D,A,C,other_distractor,Dark Humor,Social conventions
+1jbg4m6,openai/gpt-5,B,B,B,A,correct,Situational,Hobby
+1lc0zi5,openai/gpt-5,B,B,B,C,correct,Exaggeration,Technical
+1lyfboo,openai/gpt-5,D,D,D,C,correct,Situational,Pop culture
+1dhtsjq,openai/gpt-5,A,A,A,B,correct,Exaggeration,Pop culture
+1k60lga,openai/gpt-5,D,D,D,C,correct,Dark Humor,Social conventions
+1hevxkv,openai/gpt-5,B,B,D,C,other_distractor,Surprise,Social conventions
+1jkt7ig,openai/gpt-5,C,C,C,A,correct,Exaggeration,Social conventions
+1irf9u4,openai/gpt-5,D,D,C,D,literal,Situational,meme
+1m8nhhl,openai/gpt-5,B,B,B,D,correct,Situational,Social conventions
+1m015wk,openai/gpt-5,C,C,C,A,correct,Comparison,Social conventions
+1lv6b82,openai/gpt-5,A,A,A,D,correct,Situational,Social conventions
+1ieb7j3,openai/gpt-5,D,D,D,C,correct,Surprise,meme
+1d9ip08,openai/gpt-5,A,A,A,B,correct,Comparison,Hobby
+1jy5h3e,openai/gpt-5,C,C,C,D,correct,Sarcasm/Irony,Technical
+1kozyll,openai/gpt-5,B,B,D,B,literal,Comparison,Pop culture
+1ic88xs,openai/gpt-5,B,B,B,C,correct,Surprise,Logical
+1jhad2m,openai/gpt-5,B,B,A,D,other_distractor,Incongruity,Hobby
+1bhaz0e,openai/gpt-5,C,C,C,A,correct,Dark Humor,politics
+1ka6jiq,openai/gpt-5,D,D,C,D,literal,Exaggeration,Social conventions
+1i6a88o,openai/gpt-5,A,A,A,D,correct,Sarcasm/Irony,meme
+188hmpb,openai/gpt-5,D,D,B,C,other_distractor,Wordplay,General knowledge
+1hudgc9,openai/gpt-5,B,B,A,B,literal,Sarcasm/Irony,Hobby
+1fq1qb9,openai/gpt-5,A,A,B,C,other_distractor,Wordplay,Logical
+1lkox24,openai/gpt-5,B,B,B,D,correct,Exaggeration,Pop culture
+1hdbees,openai/gpt-5,B,B,D,B,literal,Wordplay,Technical
+15upbjf,openai/gpt-5,D,D,D,A,correct,Incongruity,Technical
+1e3q5dd,openai/gpt-5,A,A,A,B,correct,Comparison,meme
+1hph3za,openai/gpt-5,D,D,D,A,correct,Incongruity,meme
+1bazqft,openai/gpt-5,A,A,B,D,other_distractor,Wordplay,History/Mythology
+16uuwk3,openai/gpt-5,D,D,D,A,correct,Sarcasm/Irony,meme
+1m61khr,openai/gpt-5,A,A,A,B,correct,Dark Humor,History/Mythology
+1muan3i,openai/gpt-5,C,C,C,A,correct,Surprise,General knowledge
+1g8raiu,openai/gpt-5,D,D,D,B,correct,Incongruity,meme
+16h1wrg,openai/gpt-5,B,B,B,A,correct,Wordplay,Technical
+1d0nows,openai/gpt-5,D,D,A,B,other_distractor,Dark Humor,Pop culture
+16zvi3l,openai/gpt-5,D,D,A,C,other_distractor,Surprise,Pop culture
+1fcm1zb,openai/gpt-5,A,A,A,C,correct,Wordplay,Social conventions
+1l0pn3b,openai/gpt-5,D,D,B,C,other_distractor,Exaggeration,Social conventions
+193it8r,openai/gpt-5,B,B,B,A,correct,Surprise,History/Mythology
+1dk358k,openai/gpt-5,B,B,D,A,other_distractor,Wordplay,Pop culture
+1ixuiml,openai/gpt-5,D,D,B,D,literal,Surprise,Social conventions
+1hh0vwh,openai/gpt-5,C,C,B,D,other_distractor,Wordplay,General knowledge
+15a2flm,openai/gpt-5,D,D,D,C,correct,Dark Humor,General knowledge
+1jd57jt,openai/gpt-5,B,B,C,A,other_distractor,Sarcasm/Irony,Hobby
+1eerszi,openai/gpt-5,A,A,A,D,correct,Incongruity,Pop culture
+1ex2gnv,openai/gpt-5,D,D,D,A,correct,Incongruity,meme
+1n6ohcl,openai/gpt-5,B,B,A,C,other_distractor,Sarcasm/Irony,Technical
+1kc6xta,openai/gpt-5,D,D,C,B,other_distractor,Comparison,meme
+1mk8rnt,openai/gpt-5,A,A,A,D,correct,Dark Humor,Pop culture
+1bojwn9,openai/gpt-5,D,D,D,B,correct,Incongruity,Social conventions
+1m68ug3,openai/gpt-5,D,D,B,A,other_distractor,Exaggeration,History/Mythology
+1aqy5m7,openai/gpt-5,B,B,A,B,literal,Incongruity,General knowledge
+1jg3hi7,openai/gpt-5,B,B,B,D,correct,Incongruity,Pop culture
+1isy4zt,openai/gpt-5,C,C,D,C,literal,Wordplay,General knowledge
+19egkxy,openai/gpt-5,D,D,C,D,literal,Comparison,Logical
+1gboomw,openai/gpt-5,B,B,D,C,other_distractor,Dark Humor,Technical
+1jjvw9a,openai/gpt-5,A,A,A,C,correct,Sarcasm/Irony,History/Mythology
+1kcxst1,openai/gpt-5,C,C,B,D,other_distractor,Surprise,History/Mythology
+1jj9t5b,openai/gpt-5,A,A,A,B,correct,Dark Humor,General knowledge
+1jaf822,openai/gpt-5,C,C,A,D,other_distractor,Surprise,Technical
+1k9sq1s,openai/gpt-5,B,B,A,C,other_distractor,Dark Humor,General knowledge
+1jm74by,openai/gpt-5,C,C,C,D,correct,Comparison,General knowledge
+1cvso6z,openai/gpt-5,C,C,A,B,other_distractor,Wordplay,meme
+1efztwz,openai/gpt-5,A,A,A,C,correct,Wordplay,Social conventions
+1lfy05f,openai/gpt-5,B,B,B,C,correct,Sarcasm/Irony,General knowledge
+15oof8t,openai/gpt-5,C,C,C,D,correct,Incongruity,meme
+1e8xy5s,openai/gpt-5,D,D,D,B,correct,Dark Humor,Social conventions
+1918ki4,openai/gpt-5,B,B,A,D,other_distractor,Dark Humor,Social conventions
+1ap3qmt,openai/gpt-5,C,C,C,B,correct,Incongruity,Pop culture
+1d670z1,openai/gpt-5,A,A,A,C,correct,Wordplay,General knowledge
+1aexlbt,openai/gpt-5,B,B,C,D,other_distractor,Wordplay,Technical
+1m5qq8q,openai/gpt-5,A,A,D,B,other_distractor,Comparison,Pop culture
+1moj7hc,openai/gpt-5,D,D,D,C,correct,Dark Humor,History/Mythology
+174k7i0,openai/gpt-5,A,A,A,D,correct,Incongruity,Technical
+1lqpazn,openai/gpt-5,B,B,B,C,correct,Surprise,History/Mythology
+1ms7hs4,openai/gpt-5,C,C,B,A,other_distractor,Dark Humor,Technical
+1j7mzha,openai/gpt-5,C,C,B,D,other_distractor,Dark Humor,History/Mythology
+1i6ymv5,openai/gpt-5,C,C,A,D,other_distractor,Sarcasm/Irony,Social conventions
+1h9qk3m,openai/gpt-5,C,C,B,C,literal,Dark Humor,General knowledge
+1jcvxw6,openai/gpt-5,A,A,C,B,other_distractor,Dark Humor,General knowledge
+18d37io,openai/gpt-5,B,B,B,C,correct,Wordplay,Logical
+1iuuulu,openai/gpt-5,B,B,B,C,correct,Incongruity,Hobby
+1jvfqgq,openai/gpt-5,C,C,B,A,other_distractor,Dark Humor,politics
+164v3oo,openai/gpt-5,C,C,C,B,correct,Surprise,Logical
+1n68buk,openai/gpt-5,C,C,B,A,other_distractor,Exaggeration,Hobby
+1lq3p3j,openai/gpt-5,C,C,D,C,literal,Dark Humor,Social conventions
+1ip0ht2,openai/gpt-5,A,A,B,C,other_distractor,Exaggeration,Hobby
+1khvtur,openai/gpt-5,D,D,B,C,other_distractor,Exaggeration,Hobby
+18ae5ry,openai/gpt-5,C,C,A,B,other_distractor,Wordplay,General knowledge
+1isa49u,openai/gpt-5,D,D,D,B,correct,Wordplay,History/Mythology
+1jvn2sr,openai/gpt-5,A,A,C,B,other_distractor,Dark Humor,Technical
+1eilsjt,openai/gpt-5,D,D,A,B,other_distractor,Incongruity,General knowledge
+1fjfblb,openai/gpt-5,D,D,C,A,other_distractor,Exaggeration,Pop culture
+16k7baz,openai/gpt-5,A,A,A,C,correct,Dark Humor,Social conventions
+15gdv3c,openai/gpt-5,B,B,B,D,correct,Dark Humor,General knowledge
+1ajx3sn,openai/gpt-5,B,B,B,A,correct,Wordplay,Pop culture
+1cynp2h,openai/gpt-5,C,C,A,C,literal,Sarcasm/Irony,Pop culture
+19bj5k2,openai/gpt-5,B,B,A,C,other_distractor,Sarcasm/Irony,General knowledge
+1l79lv3,openai/gpt-5,D,D,D,B,correct,Dark Humor,Hobby
+16db363,openai/gpt-5,C,C,C,A,correct,Sarcasm/Irony,Pop culture
+16l57ay,openai/gpt-5,B,B,B,A,correct,Wordplay,History/Mythology
+1df3nh8,openai/gpt-5,D,D,D,B,correct,Dark Humor,History/Mythology
+1haf45x,openai/gpt-5,A,A,C,B,other_distractor,Sarcasm/Irony,General knowledge
+1fzh8sa,openai/gpt-5,C,C,C,A,correct,Sarcasm/Irony,Pop culture
+1ijv4xn,openai/gpt-5,A,A,A,B,correct,Wordplay,General knowledge

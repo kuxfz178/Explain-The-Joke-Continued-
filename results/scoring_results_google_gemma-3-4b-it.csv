@@ -1,0 +1,502 @@
+File,model,model_raw_answer,parsed_letter,correct_letter,literal_letter,status,humor_style,contextual_knowledge
+1af8odu,google/gemma-3-4b-it,C,C,A,C,literal,Wordplay,Pop culture
+1aoxsw3,google/gemma-3-4b-it,D,D,A,D,literal,Comparison,Technical
+1actpx8,google/gemma-3-4b-it,C,C,D,C,literal,Sarcasm/Irony,Hobby
+1ajzxfm,google/gemma-3-4b-it,B,B,B,D,correct,Comparison,Logical
+1amtoff,google/gemma-3-4b-it,D,D,A,C,other_distractor,Incongruity,General knowledge
+1bikyy1,google/gemma-3-4b-it,A,A,A,B,correct,Sarcasm/Irony,History/Mythology
+1be8p2s,google/gemma-3-4b-it,C,C,C,B,correct,Incongruity,Pop culture
+1b03bqv,google/gemma-3-4b-it,B,B,D,C,other_distractor,Incongruity,politics
+1b7unh0,google/gemma-3-4b-it,C,C,B,D,other_distractor,Comparison,History/Mythology
+1asrnb3,google/gemma-3-4b-it,B,B,B,C,correct,Exaggeration,Pop culture
+1bmtc5u,google/gemma-3-4b-it,C,C,C,D,correct,Incongruity,Social conventions
+1bl3eve,google/gemma-3-4b-it,A,A,C,A,literal,Incongruity,Hobby
+1aya611,google/gemma-3-4b-it,D,D,C,D,literal,Sarcasm/Irony,Social conventions
+1bsdc0l,google/gemma-3-4b-it,D,D,A,D,literal,Comparison,History/Mythology
+1c1tpnf,google/gemma-3-4b-it,B,B,B,D,correct,Incongruity,meme
+1bw9tb7,google/gemma-3-4b-it,B,B,C,B,literal,Comparison,General knowledge
+1c6zoan,google/gemma-3-4b-it,D,D,D,B,correct,Sarcasm/Irony,Pop culture
+1c22s8b,google/gemma-3-4b-it,C,C,B,A,other_distractor,Incongruity,Pop culture
+1c175gf,google/gemma-3-4b-it,A,A,B,D,other_distractor,Sarcasm/Irony,politics
+1cehmmt,google/gemma-3-4b-it,D,D,B,A,other_distractor,Situational,Pop culture
+1ccfha2,google/gemma-3-4b-it,B,B,A,B,literal,Sarcasm/Irony,politics
+1jfy6ms,google/gemma-3-4b-it,D,D,A,C,other_distractor,Wordplay,Pop culture
+1eae89f,google/gemma-3-4b-it,D,D,D,B,correct,Exaggeration,Hobby
+1cgcw31,google/gemma-3-4b-it,D,D,B,D,literal,Exaggeration,Pop culture
+1k4fjdr,google/gemma-3-4b-it,A,A,A,D,correct,Wordplay,Logical
+1iw42ka,google/gemma-3-4b-it,D,D,C,D,literal,Exaggeration,Pop culture
+15h4szq,google/gemma-3-4b-it,C,C,D,C,literal,Comparison,History/Mythology
+1l4mpmj,google/gemma-3-4b-it,D,D,A,D,literal,Situational,Social conventions
+1k0el7w,google/gemma-3-4b-it,B,B,C,B,literal,Situational,Hobby
+1k70gfk,google/gemma-3-4b-it,A,A,D,A,literal,Exaggeration,politics
+1jaa0tw,google/gemma-3-4b-it,A,A,B,A,literal,Comparison,History/Mythology
+1m0a4hv,google/gemma-3-4b-it,C,C,C,A,correct,Sarcasm/Irony,History/Mythology
+1cskltc,google/gemma-3-4b-it,D,D,A,D,literal,Wordplay,Pop culture
+1hvaqk7,google/gemma-3-4b-it,C,C,D,C,literal,Incongruity,meme
+1blxcsy,google/gemma-3-4b-it,C,C,C,D,correct,Situational,Pop culture
+15yqaf6,google/gemma-3-4b-it,A,A,A,C,correct,Incongruity,Technical
+1fycaf4,google/gemma-3-4b-it,B,B,B,D,correct,Situational,Logical
+1kqwlgj,google/gemma-3-4b-it,A,A,A,C,correct,Exaggeration,Technical
+1kw3buz,google/gemma-3-4b-it,C,C,B,C,literal,Wordplay,Logical
+1bur7j0,google/gemma-3-4b-it,C,C,B,C,literal,Situational,Pop culture
+1co83ht,google/gemma-3-4b-it,B,B,C,D,other_distractor,Incongruity,Social conventions
+1cpvjc7,google/gemma-3-4b-it,C,C,C,A,correct,Sarcasm/Irony,Technical
+1cym2ue,google/gemma-3-4b-it,B,B,A,C,other_distractor,Exaggeration,Pop culture
+1cwrltm,google/gemma-3-4b-it,D,D,C,D,literal,Dark Humor,Pop culture
+1d6ho4f,google/gemma-3-4b-it,D,D,B,C,other_distractor,Incongruity,General knowledge
+1d2jxbw,google/gemma-3-4b-it,A,A,C,B,other_distractor,Incongruity,General knowledge
+1d8sg9b,google/gemma-3-4b-it,B,B,D,C,other_distractor,Exaggeration,Logical
+1dbipgs,google/gemma-3-4b-it,C,C,D,C,literal,Exaggeration,Logical
+1d98tf9,google/gemma-3-4b-it,D,D,D,C,correct,Dark Humor,politics
+1dfrh37,google/gemma-3-4b-it,B,B,D,B,literal,Incongruity,Hobby
+1di1z94,google/gemma-3-4b-it,D,D,A,C,other_distractor,Exaggeration,Social conventions
+1dr9jg6,google/gemma-3-4b-it,D,D,A,B,other_distractor,Situational,Pop culture
+1dlzvsx,google/gemma-3-4b-it,A,A,D,A,literal,Comparison,Logical
+1do7yvv,google/gemma-3-4b-it,B,B,C,D,other_distractor,Incongruity,Logical
+1dtmedg,google/gemma-3-4b-it,D,D,A,C,other_distractor,Situational,Social conventions
+1dwa7tj,google/gemma-3-4b-it,B,B,D,C,other_distractor,Dark Humor,History/Mythology
+1dk6kds,google/gemma-3-4b-it,D,D,B,D,literal,Dark Humor,Pop culture
+1e2qvt9,google/gemma-3-4b-it,B,B,C,B,literal,Exaggeration,Social conventions
+1e0k66e,google/gemma-3-4b-it,B,B,B,C,correct,Wordplay,Technical
+1e6m88u,google/gemma-3-4b-it,B,B,B,A,correct,Comparison,Pop culture
+1ea5yhw,google/gemma-3-4b-it,A,A,A,D,correct,Exaggeration,politics
+1efs65o,google/gemma-3-4b-it,D,D,B,D,literal,Comparison,Hobby
+1eeayas,google/gemma-3-4b-it,B,B,B,A,correct,Sarcasm/Irony,History/Mythology
+1elhse8,google/gemma-3-4b-it,A,A,B,D,other_distractor,Exaggeration,Logical
+1eq297i,google/gemma-3-4b-it,C,C,B,C,literal,Exaggeration,politics
+1eko6xo,google/gemma-3-4b-it,D,D,C,B,other_distractor,Comparison,Pop culture
+1et8l0q,google/gemma-3-4b-it,B,B,C,B,literal,Incongruity,Logical
+1ex1lej,google/gemma-3-4b-it,C,C,D,C,literal,Exaggeration,General knowledge
+1f0qs2a,google/gemma-3-4b-it,B,B,B,D,correct,Incongruity,General knowledge
+1fdg0i5,google/gemma-3-4b-it,D,D,D,A,correct,Dark Humor,politics
+1fa202w,google/gemma-3-4b-it,D,D,C,D,literal,Exaggeration,Hobby
+1f4tmhz,google/gemma-3-4b-it,D,D,D,C,correct,Sarcasm/Irony,Logical
+1fbym0h,google/gemma-3-4b-it,B,B,D,B,literal,Comparison,Social conventions
+1f16w9p,google/gemma-3-4b-it,D,D,C,D,literal,Situational,General knowledge
+1fg38dp,google/gemma-3-4b-it,A,A,B,A,literal,Exaggeration,Logical
+1fs6ndo,google/gemma-3-4b-it,D,D,B,D,literal,Comparison,Hobby
+1fm0tjo,google/gemma-3-4b-it,D,D,C,D,literal,Exaggeration,Logical
+1fo91u1,google/gemma-3-4b-it,B,B,D,B,literal,Situational,Logical
+1fu3pp1,google/gemma-3-4b-it,A,A,C,B,other_distractor,Incongruity,Technical
+1fst6nb,google/gemma-3-4b-it,B,B,B,C,correct,Comparison,politics
+1fuxrbx,google/gemma-3-4b-it,A,A,A,C,correct,Wordplay,Hobby
+1fwbzz9,google/gemma-3-4b-it,A,A,A,C,correct,Situational,politics
+1fxqzyt,google/gemma-3-4b-it,B,B,B,D,correct,Wordplay,Social conventions
+1g02nzf,google/gemma-3-4b-it,D,D,D,B,correct,Situational,History/Mythology
+1g7yhzc,google/gemma-3-4b-it,A,A,A,C,correct,Exaggeration,Social conventions
+1gidb47,google/gemma-3-4b-it,C,C,B,D,other_distractor,Situational,Technical
+1g4657e,google/gemma-3-4b-it,C,C,B,C,literal,Incongruity,History/Mythology
+1gazv8u,google/gemma-3-4b-it,A,A,B,D,other_distractor,Dark Humor,politics
+1gqh1c5,google/gemma-3-4b-it,D,D,D,C,correct,Situational,Social conventions
+1gop1dk,google/gemma-3-4b-it,B,B,D,B,literal,Exaggeration,Social conventions
+1gs87cm,google/gemma-3-4b-it,D,D,C,D,literal,Situational,Pop culture
+1guacve,google/gemma-3-4b-it,B,B,A,B,literal,Exaggeration,Social conventions
+1gz2i0o,google/gemma-3-4b-it,D,D,C,D,literal,Exaggeration,History/Mythology
+1h5a44z,google/gemma-3-4b-it,D,D,A,D,literal,Comparison,Pop culture
+1gzkbbi,google/gemma-3-4b-it,C,C,D,C,literal,Comparison,politics
+1h8d39n,google/gemma-3-4b-it,D,D,A,D,literal,Comparison,Hobby
+1h7di4x,google/gemma-3-4b-it,A,A,C,D,other_distractor,Wordplay,Logical
+1gx0pu0,google/gemma-3-4b-it,B,B,D,A,other_distractor,Comparison,Hobby
+1h52vkf,google/gemma-3-4b-it,D,D,A,D,literal,Comparison,General knowledge
+1hfggtz,google/gemma-3-4b-it,D,D,B,A,other_distractor,Comparison,Technical
+1hqtnop,google/gemma-3-4b-it,D,D,A,C,other_distractor,Wordplay,politics
+1i5ve1j,google/gemma-3-4b-it,B,B,C,B,literal,Comparison,History/Mythology
+1huqauz,google/gemma-3-4b-it,B,B,B,A,correct,Incongruity,Hobby
+1iad0kh,google/gemma-3-4b-it,D,D,B,D,literal,Exaggeration,Technical
+1ig7lnf,google/gemma-3-4b-it,C,C,D,C,literal,Incongruity,meme
+1hmbnol,google/gemma-3-4b-it,D,D,D,B,correct,Comparison,Technical
+1iri57s,google/gemma-3-4b-it,D,D,C,A,other_distractor,Surprise,Social conventions
+1ibz4bh,google/gemma-3-4b-it,D,D,D,A,correct,Incongruity,Technical
+1inxmb2,google/gemma-3-4b-it,C,C,A,C,literal,Comparison,meme
+1iv0i8s,google/gemma-3-4b-it,B,B,B,D,correct,Situational,Logical
+1hcpvbz,google/gemma-3-4b-it,B,B,A,B,literal,Situational,Pop culture
+1izj4eu,google/gemma-3-4b-it,B,B,D,A,other_distractor,Incongruity,politics
+1h626bt,google/gemma-3-4b-it,D,D,C,A,other_distractor,Wordplay,Hobby
+1jaysny,google/gemma-3-4b-it,D,D,D,A,correct,Incongruity,Hobby
+1jh5toe,google/gemma-3-4b-it,C,C,D,A,other_distractor,Exaggeration,Social conventions
+1j983b2,google/gemma-3-4b-it,D,D,A,D,literal,Comparison,Social conventions
+1jjiqlq,google/gemma-3-4b-it,C,C,A,C,literal,Sarcasm/Irony,Social conventions
+1k25b9s,google/gemma-3-4b-it,D,D,A,D,literal,Comparison,History/Mythology
+1kgak2u,google/gemma-3-4b-it,B,B,C,D,other_distractor,Comparison,Technical
+17pg0fe,google/gemma-3-4b-it,B,B,D,B,literal,Exaggeration,Pop culture
+1mbnnpw,google/gemma-3-4b-it,D,D,B,D,literal,Surprise,General knowledge
+1l8vajl,google/gemma-3-4b-it,A,A,C,B,other_distractor,Comparison,Hobby
+1c38j1b,google/gemma-3-4b-it,D,D,D,A,correct,Comparison,Logical
+1bdho8z,google/gemma-3-4b-it,C,C,B,C,literal,Exaggeration,Social conventions
+1mfr9vy,google/gemma-3-4b-it,D,D,B,C,other_distractor,Situational,Social conventions
+1naurrn,google/gemma-3-4b-it,D,D,D,B,correct,Comparison,Technical
+1m241pn,google/gemma-3-4b-it,B,B,B,D,correct,Dark Humor,Social conventions
+1m7b5bx,google/gemma-3-4b-it,A,A,B,A,literal,Surprise,politics
+1m9u48i,google/gemma-3-4b-it,C,C,D,B,other_distractor,Incongruity,Hobby
+1lttuji,google/gemma-3-4b-it,D,D,D,A,correct,Incongruity,Pop culture
+1ljrgbw,google/gemma-3-4b-it,D,D,D,A,correct,Surprise,Social conventions
+1bk0w4q,google/gemma-3-4b-it,D,D,C,A,other_distractor,Surprise,politics
+1k6ds0q,google/gemma-3-4b-it,D,D,C,B,other_distractor,Sarcasm/Irony,Social conventions
+1heeibu,google/gemma-3-4b-it,C,C,A,D,other_distractor,Incongruity,meme
+184f4hh,google/gemma-3-4b-it,C,C,C,B,correct,Comparison,Hobby
+1fvpb5q,google/gemma-3-4b-it,D,D,D,B,correct,Dark Humor,politics
+1l1hxof,google/gemma-3-4b-it,C,C,D,C,literal,Incongruity,Social conventions
+1mzfdhh,google/gemma-3-4b-it,D,D,C,A,other_distractor,Situational,Hobby
+1kjg3vh,google/gemma-3-4b-it,D,D,B,C,other_distractor,Dark Humor,Logical
+1j0w1z3,google/gemma-3-4b-it,A,A,B,A,literal,Comparison,meme
+1k4lzxj,google/gemma-3-4b-it,D,D,C,B,other_distractor,Sarcasm/Irony,politics
+169oqq5,google/gemma-3-4b-it,D,D,D,B,correct,Wordplay,General knowledge
+1irxw6j,google/gemma-3-4b-it,B,B,D,B,literal,Dark Humor,History/Mythology
+1c3z5ld,google/gemma-3-4b-it,D,D,C,D,literal,Situational,Hobby
+19eokbq,google/gemma-3-4b-it,C,C,C,A,correct,Situational,General knowledge
+1co29mb,google/gemma-3-4b-it,C,C,D,C,literal,Wordplay,Pop culture
+1ird7yb,google/gemma-3-4b-it,D,D,C,A,other_distractor,Exaggeration,Hobby
+1dxonad,google/gemma-3-4b-it,C,C,B,C,literal,Wordplay,General knowledge
+1ipozgr,google/gemma-3-4b-it,D,D,D,B,correct,Situational,General knowledge
+1cbcpxn,google/gemma-3-4b-it,C,C,D,C,literal,Situational,Hobby
+194s3gh,google/gemma-3-4b-it,C,C,A,C,literal,Exaggeration,meme
+177cl97,google/gemma-3-4b-it,D,D,D,A,correct,Situational,Technical
+1bvyaep,google/gemma-3-4b-it,C,C,A,C,literal,Surprise,History/Mythology
+1587f2g,google/gemma-3-4b-it,A,A,A,D,correct,Exaggeration,Technical
+1jhyaz4,google/gemma-3-4b-it,B,B,C,B,literal,Exaggeration,General knowledge
+1n7s8ht,google/gemma-3-4b-it,D,D,D,A,correct,Exaggeration,History/Mythology
+1fwc8sk,google/gemma-3-4b-it,B,B,B,A,correct,Situational,Pop culture
+1fssuxj,google/gemma-3-4b-it,C,C,A,C,literal,Wordplay,Logical
+1jzigfy,google/gemma-3-4b-it,C,C,D,C,literal,Sarcasm/Irony,General knowledge
+1key5qt,google/gemma-3-4b-it,C,C,B,C,literal,Incongruity,Pop culture
+192wp5d,google/gemma-3-4b-it,D,D,C,D,literal,Incongruity,Social conventions
+195f4ld,google/gemma-3-4b-it,C,C,A,C,literal,Surprise,meme
+1hql3cv,google/gemma-3-4b-it,D,D,D,A,correct,Wordplay,General knowledge
+1eexgq9,google/gemma-3-4b-it,C,C,C,D,correct,Dark Humor,History/Mythology
+1mpg380,google/gemma-3-4b-it,B,B,B,A,correct,Situational,Hobby
+1mluk7a,google/gemma-3-4b-it,B,B,A,B,literal,Dark Humor,History/Mythology
+1g1cv45,google/gemma-3-4b-it,B,B,B,UNKNOWN,correct,Comparison,meme
+1g2ofgo,google/gemma-3-4b-it,D,D,A,D,literal,Situational,History/Mythology
+1cs870m,google/gemma-3-4b-it,A,A,B,A,literal,Wordplay,General knowledge
+1jzu8un,google/gemma-3-4b-it,C,C,C,B,correct,Surprise,Technical
+1gvvhs3,google/gemma-3-4b-it,B,B,A,B,literal,Wordplay,Social conventions
+1l22d3q,google/gemma-3-4b-it,B,B,C,B,literal,Sarcasm/Irony,Pop culture
+1ga3uxo,google/gemma-3-4b-it,D,D,A,D,literal,Surprise,Technical
+1ii3g3t,google/gemma-3-4b-it,D,D,D,A,correct,Dark Humor,History/Mythology
+1l99mtp,google/gemma-3-4b-it,D,D,A,D,literal,Situational,Technical
+1hjwowy,google/gemma-3-4b-it,C,C,D,C,literal,Exaggeration,Social conventions
+1h7ih54,google/gemma-3-4b-it,A,A,B,A,literal,Comparison,Pop culture
+1j289je,google/gemma-3-4b-it,C,C,D,C,literal,Incongruity,General knowledge
+1eglfe7,google/gemma-3-4b-it,D,D,A,B,other_distractor,Surprise,Technical
+1jdq5gi,google/gemma-3-4b-it,D,D,C,UNKNOWN,wrong_literal_unknown,Wordplay,Social conventions
+1g3admg,google/gemma-3-4b-it,B,B,B,A,correct,Situational,meme
+1jykoxc,google/gemma-3-4b-it,D,D,B,D,literal,Wordplay,General knowledge
+1gp140e,google/gemma-3-4b-it,A,A,D,A,literal,Surprise,meme
+1il72ww,google/gemma-3-4b-it,B,B,B,C,correct,Sarcasm/Irony,Social conventions
+1kpj6mq,google/gemma-3-4b-it,B,B,A,B,literal,Comparison,Pop culture
+1ceuuuh,google/gemma-3-4b-it,C,C,A,C,literal,Sarcasm/Irony,politics
+1az5r39,google/gemma-3-4b-it,C,C,D,C,literal,Comparison,politics
+1bk5jkq,google/gemma-3-4b-it,A,A,C,D,other_distractor,Surprise,Technical
+1it3ezt,google/gemma-3-4b-it,D,D,A,D,literal,Wordplay,Technical
+1hauo6q,google/gemma-3-4b-it,B,B,A,B,literal,Dark Humor,politics
+1jtym4e,google/gemma-3-4b-it,D,D,A,D,literal,Dark Humor,politics
+1l4x3e6,google/gemma-3-4b-it,C,C,B,C,literal,Surprise,politics
+1j0n4gg,google/gemma-3-4b-it,C,C,D,C,literal,Surprise,politics
+1hbogj4,google/gemma-3-4b-it,D,D,D,A,correct,Dark Humor,politics
+1flb4nk,google/gemma-3-4b-it,D,D,D,A,correct,Surprise,History/Mythology
+1mahcad,google/gemma-3-4b-it,C,C,B,C,literal,Wordplay,General knowledge
+1dhf9h2,google/gemma-3-4b-it,B,B,A,B,literal,Surprise,politics
+1c01lei,google/gemma-3-4b-it,A,A,B,A,literal,Dark Humor,politics
+1d7u657,google/gemma-3-4b-it,A,A,B,D,other_distractor,Sarcasm/Irony,politics
+1dv83hh,google/gemma-3-4b-it,D,D,C,A,other_distractor,Dark Humor,politics
+1cdufsh,google/gemma-3-4b-it,D,D,C,A,other_distractor,Sarcasm/Irony,politics
+1m56k4v,google/gemma-3-4b-it,D,D,B,D,literal,Surprise,Technical
+13ibrc1,google/gemma-3-4b-it,C,C,A,C,literal,Comparison,Logical
+1lnme9d,google/gemma-3-4b-it,C,C,D,C,literal,Surprise,History/Mythology
+1lcutci,google/gemma-3-4b-it,B,B,A,B,literal,Comparison,politics
+1mbrsfx,google/gemma-3-4b-it,B,B,C,B,literal,Surprise,meme
+1lhnwl4,google/gemma-3-4b-it,B,B,A,B,literal,Incongruity,politics
+1lmltqs,google/gemma-3-4b-it,B,B,A,C,other_distractor,Surprise,meme
+1if88s3,google/gemma-3-4b-it,C,C,C,D,correct,Wordplay,Technical
+1jpn69p,google/gemma-3-4b-it,D,D,D,A,correct,Comparison,Technical
+1l8fck5,google/gemma-3-4b-it,D,D,C,A,other_distractor,Surprise,Logical
+1fs7uqa,google/gemma-3-4b-it,C,C,C,D,correct,Surprise,politics
+1k6qo63,google/gemma-3-4b-it,B,B,C,B,literal,Comparison,Technical
+1ku0frm,google/gemma-3-4b-it,C,C,D,B,other_distractor,Wordplay,Logical
+1agsl73,google/gemma-3-4b-it,B,B,D,A,other_distractor,Wordplay,History/Mythology
+1mj26iu,google/gemma-3-4b-it,C,C,D,C,literal,Wordplay,Logical
+1cqzlzh,google/gemma-3-4b-it,C,C,C,A,correct,Sarcasm/Irony,History/Mythology
+1m55hez,google/gemma-3-4b-it,C,C,A,C,literal,Dark Humor,Logical
+1jny20o,google/gemma-3-4b-it,B,B,D,B,literal,Sarcasm/Irony,Logical
+1josjz1,google/gemma-3-4b-it,D,D,C,D,literal,Wordplay,politics
+1arjiwr,google/gemma-3-4b-it,C,C,C,D,correct,Comparison,politics
+1m83zvy,google/gemma-3-4b-it,B,B,B,D,correct,Comparison,Hobby
+1lgqywl,google/gemma-3-4b-it,C,C,A,C,literal,Dark Humor,History/Mythology
+1m3s0a4,google/gemma-3-4b-it,C,C,C,B,correct,Sarcasm/Irony,History/Mythology
+15vbd1p,google/gemma-3-4b-it,B,B,D,C,other_distractor,Dark Humor,Logical
+1mkomql,google/gemma-3-4b-it,D,D,B,A,other_distractor,Sarcasm/Irony,meme
+1narr2o,google/gemma-3-4b-it,D,D,B,C,other_distractor,Sarcasm/Irony,Logical
+1mhtv4z,google/gemma-3-4b-it,B,B,C,B,literal,Dark Humor,Hobby
+1n0my5r,google/gemma-3-4b-it,B,B,A,C,other_distractor,Surprise,Hobby
+1k5a33w,google/gemma-3-4b-it,B,B,B,A,correct,Sarcasm/Irony,meme
+1k5wejp,google/gemma-3-4b-it,C,C,B,C,literal,Surprise,Hobby
+1kehvhj,google/gemma-3-4b-it,D,D,A,C,other_distractor,Exaggeration,History/Mythology
+1keqvzx,google/gemma-3-4b-it,B,B,D,B,literal,Dark Humor,Logical
+1k4ukvi,google/gemma-3-4b-it,B,B,D,B,literal,Sarcasm/Irony,General knowledge
+1kpfg74,google/gemma-3-4b-it,A,A,C,D,other_distractor,Sarcasm/Irony,History/Mythology
+1jwjneb,google/gemma-3-4b-it,D,D,C,D,literal,Comparison,Hobby
+1kqcllz,google/gemma-3-4b-it,D,D,B,D,literal,Sarcasm/Irony,Logical
+1kpua4s,google/gemma-3-4b-it,B,B,C,D,other_distractor,Surprise,Hobby
+1l7z6gs,google/gemma-3-4b-it,B,B,C,B,literal,Sarcasm/Irony,Social conventions
+1kjlggg,google/gemma-3-4b-it,C,C,B,C,literal,Dark Humor,politics
+1kidi8e,google/gemma-3-4b-it,B,B,B,A,correct,Sarcasm/Irony,Technical
+1asecwa,google/gemma-3-4b-it,D,D,C,D,literal,Dark Humor,Technical
+1i38yhn,google/gemma-3-4b-it,A,A,B,A,literal,Situational,Hobby
+1bpefe3,google/gemma-3-4b-it,D,D,C,D,literal,Wordplay,Logical
+1fkmtz4,google/gemma-3-4b-it,B,B,B,A,correct,Dark Humor,Technical
+1czson4,google/gemma-3-4b-it,C,C,C,B,correct,Sarcasm/Irony,Technical
+1dcyo13,google/gemma-3-4b-it,C,C,D,C,literal,Dark Humor,politics
+1fvuj7k,google/gemma-3-4b-it,A,A,A,C,correct,Exaggeration,Hobby
+1gtbssx,google/gemma-3-4b-it,C,C,C,B,correct,Dark Humor,Hobby
+1htm33y,google/gemma-3-4b-it,B,B,C,B,literal,Wordplay,Logical
+1esw67r,google/gemma-3-4b-it,C,C,A,C,literal,Wordplay,Logical
+1hw0vwf,google/gemma-3-4b-it,C,C,A,C,literal,Wordplay,Logical
+1kw5fto,google/gemma-3-4b-it,B,B,B,D,correct,Surprise,politics
+1k9xaf4,google/gemma-3-4b-it,D,D,A,D,literal,Sarcasm/Irony,politics
+1itzxo7,google/gemma-3-4b-it,D,D,D,A,correct,Sarcasm/Irony,History/Mythology
+1ibyirm,google/gemma-3-4b-it,C,C,D,A,other_distractor,Sarcasm/Irony,politics
+1jmn6xg,google/gemma-3-4b-it,C,C,A,C,literal,Sarcasm/Irony,politics
+1ijlh5e,google/gemma-3-4b-it,B,B,D,B,literal,Situational,politics
+1ih9bat,google/gemma-3-4b-it,A,A,D,A,literal,Sarcasm/Irony,Logical
+1j5j7q8,google/gemma-3-4b-it,D,D,B,D,literal,Sarcasm/Irony,politics
+1j1lc01,google/gemma-3-4b-it,B,B,C,B,literal,Surprise,Hobby
+1c43fea,google/gemma-3-4b-it,A,A,B,A,literal,Dark Humor,Hobby
+1jwvcno,google/gemma-3-4b-it,C,C,C,B,correct,Dark Humor,History/Mythology
+1j9svdf,google/gemma-3-4b-it,D,D,C,D,literal,Dark Humor,History/Mythology
+1kxar4d,google/gemma-3-4b-it,A,A,B,C,other_distractor,Dark Humor,politics
+1m0b8uv,google/gemma-3-4b-it,D,D,C,D,literal,Incongruity,politics
+19994ey,google/gemma-3-4b-it,D,D,C,D,literal,Exaggeration,politics
+1lppcyj,google/gemma-3-4b-it,A,A,B,A,literal,Situational,General knowledge
+18dba0l,google/gemma-3-4b-it,C,C,D,C,literal,Wordplay,Hobby
+1h066h6,google/gemma-3-4b-it,D,D,D,C,correct,Situational,Technical
+1kjzy1y,google/gemma-3-4b-it,C,C,A,C,literal,Wordplay,General knowledge
+1c341d5,google/gemma-3-4b-it,B,B,C,A,other_distractor,Exaggeration,General knowledge
+17930bw,google/gemma-3-4b-it,D,D,A,B,other_distractor,Wordplay,General knowledge
+19dbf08,google/gemma-3-4b-it,A,A,A,D,correct,Sarcasm/Irony,History/Mythology
+1lfe3gp,google/gemma-3-4b-it,D,D,C,D,literal,Exaggeration,politics
+1bnyn39,google/gemma-3-4b-it,C,C,A,C,literal,Sarcasm/Irony,Pop culture
+1ly2yui,google/gemma-3-4b-it,B,B,C,B,literal,Incongruity,Technical
+1hy2gti,google/gemma-3-4b-it,A,A,A,B,correct,Situational,Hobby
+1jczpuc,google/gemma-3-4b-it,C,C,D,C,literal,Sarcasm/Irony,Hobby
+1joifiq,google/gemma-3-4b-it,B,B,D,B,literal,Surprise,Technical
+1h53lb4,google/gemma-3-4b-it,A,A,D,A,literal,Dark Humor,meme
+1iad95m,google/gemma-3-4b-it,B,B,D,A,other_distractor,Exaggeration,Pop culture
+1n2ae1w,google/gemma-3-4b-it,D,D,D,C,correct,Exaggeration,politics
+198awkk,google/gemma-3-4b-it,C,C,A,B,other_distractor,Wordplay,General knowledge
+1l5rutv,google/gemma-3-4b-it,C,C,A,C,literal,Surprise,Social conventions
+1b2nrx4,google/gemma-3-4b-it,C,C,C,A,correct,Exaggeration,Social conventions
+1kfy8l5,google/gemma-3-4b-it,D,D,D,A,correct,Incongruity,politics
+1aekqdo,google/gemma-3-4b-it,B,B,B,A,correct,Sarcasm/Irony,History/Mythology
+1kvenyk,google/gemma-3-4b-it,C,C,A,C,literal,Sarcasm/Irony,History/Mythology
+180j85r,google/gemma-3-4b-it,D,D,C,D,literal,Dark Humor,Technical
+1c8be16,google/gemma-3-4b-it,B,B,B,D,correct,Surprise,History/Mythology
+1j6onpg,google/gemma-3-4b-it,A,A,B,A,literal,Incongruity,Social conventions
+14ys2z4,google/gemma-3-4b-it,B,B,D,B,literal,Situational,politics
+1jjo04h,google/gemma-3-4b-it,D,D,C,D,literal,Incongruity,meme
+1kbjn4z,google/gemma-3-4b-it,D,D,B,D,literal,Dark Humor,Pop culture
+1lofpc4,google/gemma-3-4b-it,B,B,D,B,literal,Incongruity,meme
+1cj9j9z,google/gemma-3-4b-it,C,C,C,B,correct,Sarcasm/Irony,History/Mythology
+1lejj62,google/gemma-3-4b-it,D,D,C,D,literal,Exaggeration,Pop culture
+1cb769r,google/gemma-3-4b-it,C,C,B,C,literal,Sarcasm/Irony,Hobby
+15aafk0,google/gemma-3-4b-it,D,D,A,C,other_distractor,Sarcasm/Irony,Pop culture
+17aswoo,google/gemma-3-4b-it,D,D,A,D,literal,Incongruity,meme
+1j3kbpk,google/gemma-3-4b-it,A,A,B,A,literal,Dark Humor,General knowledge
+1lh0gn3,google/gemma-3-4b-it,D,D,A,D,literal,Sarcasm/Irony,meme
+1h779tg,google/gemma-3-4b-it,C,C,A,C,literal,Comparison,Pop culture
+1hwftqw,google/gemma-3-4b-it,B,B,B,A,correct,Dark Humor,meme
+186tj6c,google/gemma-3-4b-it,C,C,A,C,literal,Wordplay,Technical
+1ftatdh,google/gemma-3-4b-it,D,D,B,D,literal,Exaggeration,History/Mythology
+1b5u72j,google/gemma-3-4b-it,C,C,C,D,correct,Exaggeration,meme
+1kdp49k,google/gemma-3-4b-it,B,B,D,B,literal,Incongruity,Social conventions
+1mwbbsw,google/gemma-3-4b-it,C,C,A,C,literal,Wordplay,Logical
+1h03n16,google/gemma-3-4b-it,D,D,A,D,literal,Incongruity,Technical
+1kyy4wf,google/gemma-3-4b-it,B,B,B,A,correct,Incongruity,politics
+1hqjjs0,google/gemma-3-4b-it,B,B,A,B,literal,Surprise,Pop culture
+1iu9i31,google/gemma-3-4b-it,A,A,C,A,literal,Dark Humor,meme
+1j5stzi,google/gemma-3-4b-it,A,A,D,A,literal,Incongruity,meme
+1gmxl68,google/gemma-3-4b-it,C,C,B,C,literal,Exaggeration,General knowledge
+1ftdy3c,google/gemma-3-4b-it,B,B,D,B,literal,Surprise,Logical
+1n8xv5g,google/gemma-3-4b-it,D,D,A,D,literal,Surprise,politics
+1lt2euq,google/gemma-3-4b-it,D,D,D,A,correct,Exaggeration,Pop culture
+1j6bl5f,google/gemma-3-4b-it,A,A,D,A,literal,Comparison,Hobby
+1kfloer,google/gemma-3-4b-it,A,A,D,A,literal,Surprise,Logical
+1iz5ool,google/gemma-3-4b-it,C,C,A,C,literal,Dark Humor,politics
+1gp5i8t,google/gemma-3-4b-it,D,D,D,A,correct,Exaggeration,General knowledge
+1l3sh3k,google/gemma-3-4b-it,A,A,B,A,literal,Situational,Pop culture
+1kbvz8k,google/gemma-3-4b-it,D,D,C,D,literal,Situational,General knowledge
+1llqmsk,google/gemma-3-4b-it,D,D,C,UNKNOWN,wrong_literal_unknown,Surprise,History/Mythology
+1jwed8c,google/gemma-3-4b-it,C,C,B,C,literal,Surprise,meme
+1lavhpu,google/gemma-3-4b-it,D,D,D,A,correct,Exaggeration,History/Mythology
+1mh20fz,google/gemma-3-4b-it,A,A,C,A,literal,Surprise,Hobby
+1i5ptep,google/gemma-3-4b-it,A,A,C,A,literal,Situational,Social conventions
+1c7z583,google/gemma-3-4b-it,A,A,D,B,other_distractor,Dark Humor,Technical
+1iu9a7u,google/gemma-3-4b-it,D,D,C,D,literal,Situational,Hobby
+1j8se9s,google/gemma-3-4b-it,B,B,A,B,literal,Exaggeration,General knowledge
+1l45vl2,google/gemma-3-4b-it,B,B,A,B,literal,Situational,Logical
+1j7llre,google/gemma-3-4b-it,C,C,D,C,literal,Comparison,Logical
+1kgwdyt,google/gemma-3-4b-it,D,D,C,D,literal,Situational,Logical
+1k0nmen,google/gemma-3-4b-it,D,D,B,D,literal,Comparison,meme
+1kyo5pv,google/gemma-3-4b-it,A,A,A,D,correct,Comparison,Hobby
+1krtkl7,google/gemma-3-4b-it,A,A,D,A,literal,Situational,Social conventions
+1iizrp4,google/gemma-3-4b-it,B,B,C,B,literal,Wordplay,politics
+1fhormb,google/gemma-3-4b-it,D,D,A,D,literal,Surprise,Hobby
+1iw106j,google/gemma-3-4b-it,C,C,C,UNKNOWN,correct,Comparison,Pop culture
+1kse8n2,google/gemma-3-4b-it,D,D,C,D,literal,Comparison,Pop culture
+1ikp7ob,google/gemma-3-4b-it,B,B,B,C,correct,Sarcasm/Irony,Social conventions
+1dgwejg,google/gemma-3-4b-it,D,D,B,D,literal,Comparison,Social conventions
+1hhkhlc,google/gemma-3-4b-it,C,C,D,C,literal,Comparison,General knowledge
+1jmzzco,google/gemma-3-4b-it,C,C,A,C,literal,Sarcasm/Irony,meme
+1l5ixzd,google/gemma-3-4b-it,C,C,B,C,literal,Situational,Logical
+1jx5y8q,google/gemma-3-4b-it,B,B,D,B,literal,Situational,Logical
+1jgbtbp,google/gemma-3-4b-it,A,A,A,B,correct,Incongruity,History/Mythology
+1jeeg3m,google/gemma-3-4b-it,C,C,C,A,correct,Surprise,Pop culture
+1knbdga,google/gemma-3-4b-it,A,A,C,A,literal,Surprise,Technical
+1mngo9t,google/gemma-3-4b-it,D,D,C,A,other_distractor,Situational,Pop culture
+1fy9pjo,google/gemma-3-4b-it,C,C,A,C,literal,Dark Humor,General knowledge
+1jfnlgd,google/gemma-3-4b-it,D,D,A,D,literal,Dark Humor,Social conventions
+1grd05j,google/gemma-3-4b-it,B,B,B,D,correct,Comparison,Social conventions
+1kafv5j,google/gemma-3-4b-it,D,D,A,D,literal,Dark Humor,Pop culture
+1jp8wst,google/gemma-3-4b-it,B,B,D,B,literal,Dark Humor,History/Mythology
+1d7x2rg,google/gemma-3-4b-it,C,C,C,A,correct,Situational,Logical
+1kw2p1y,google/gemma-3-4b-it,D,D,C,D,literal,Surprise,Logical
+1jzk0f2,google/gemma-3-4b-it,D,D,D,B,correct,Situational,Pop culture
+1k27mne,google/gemma-3-4b-it,A,A,A,B,correct,Dark Humor,Hobby
+1duiywi,google/gemma-3-4b-it,C,C,C,A,correct,Incongruity,Technical
+1d5bxcu,google/gemma-3-4b-it,B,B,B,C,correct,Dark Humor,meme
+1l6ov5y,google/gemma-3-4b-it,C,C,C,A,correct,Situational,Hobby
+1fvg71d,google/gemma-3-4b-it,B,B,B,A,correct,Comparison,History/Mythology
+1j25t67,google/gemma-3-4b-it,D,D,B,D,literal,Wordplay,meme
+1fl51f0,google/gemma-3-4b-it,B,B,B,D,correct,Surprise,Social conventions
+1jpmmd9,google/gemma-3-4b-it,C,C,C,A,correct,Wordplay,Social conventions
+1jipmfo,google/gemma-3-4b-it,C,C,D,A,other_distractor,Surprise,Hobby
+1kpsba8,google/gemma-3-4b-it,D,D,A,C,other_distractor,Situational,Social conventions
+1jk2lgw,google/gemma-3-4b-it,C,C,C,D,correct,Sarcasm/Irony,meme
+1klgmos,google/gemma-3-4b-it,D,D,D,C,correct,Exaggeration,General knowledge
+1jtq5lb,google/gemma-3-4b-it,D,D,B,D,literal,Wordplay,General knowledge
+1j0k484,google/gemma-3-4b-it,D,D,D,B,correct,Wordplay,Technical
+1lbduvg,google/gemma-3-4b-it,B,B,D,A,other_distractor,Comparison,Hobby
+1g41h0e,google/gemma-3-4b-it,D,D,D,A,correct,Surprise,Technical
+1kxmxbf,google/gemma-3-4b-it,A,A,C,D,other_distractor,Exaggeration,History/Mythology
+1c4n4xd,google/gemma-3-4b-it,B,B,B,A,correct,Situational,Logical
+1m4ns1d,google/gemma-3-4b-it,B,B,B,D,correct,Comparison,Technical
+1mxibps,google/gemma-3-4b-it,C,C,B,A,other_distractor,Comparison,Pop culture
+1ljwpph,google/gemma-3-4b-it,C,C,A,D,other_distractor,Wordplay,General knowledge
+1kczb4x,google/gemma-3-4b-it,C,C,C,A,correct,Exaggeration,Social conventions
+1mcgb86,google/gemma-3-4b-it,D,D,C,UNKNOWN,wrong_literal_unknown,Situational,Social conventions
+1i7iklj,google/gemma-3-4b-it,B,B,C,D,other_distractor,Situational,Technical
+18lkyqa,google/gemma-3-4b-it,D,D,C,B,other_distractor,Exaggeration,Social conventions
+1kjzqgk,google/gemma-3-4b-it,D,D,D,A,correct,Situational,Hobby
+1kmjd7k,google/gemma-3-4b-it,A,A,B,D,other_distractor,Incongruity,Pop culture
+1j6w01m,google/gemma-3-4b-it,D,D,A,C,other_distractor,Situational,Technical
+1itmj5l,google/gemma-3-4b-it,C,C,B,A,other_distractor,Situational,Technical
+1dap4il,google/gemma-3-4b-it,A,A,A,C,correct,Dark Humor,Pop culture
+1d11llv,google/gemma-3-4b-it,D,D,D,A,correct,Situational,Social conventions
+1g2fiqh,google/gemma-3-4b-it,C,C,C,D,correct,Situational,meme
+1mcy7yd,google/gemma-3-4b-it,A,A,A,D,correct,Comparison,Social conventions
+1l8fcur,google/gemma-3-4b-it,D,D,A,C,other_distractor,Dark Humor,Social conventions
+1itwe3y,google/gemma-3-4b-it,B,B,D,A,other_distractor,Situational,Technical
+1lc0zi5,google/gemma-3-4b-it,B,B,B,C,correct,Exaggeration,Technical
+1jbg4m6,google/gemma-3-4b-it,A,A,B,A,literal,Situational,Hobby
+1dhtsjq,google/gemma-3-4b-it,A,A,A,B,correct,Exaggeration,Pop culture
+1k60lga,google/gemma-3-4b-it,B,B,D,C,other_distractor,Dark Humor,Social conventions
+1lyfboo,google/gemma-3-4b-it,D,D,D,C,correct,Situational,Pop culture
+1hevxkv,google/gemma-3-4b-it,A,A,D,C,other_distractor,Surprise,Social conventions
+1m015wk,google/gemma-3-4b-it,D,D,C,A,other_distractor,Comparison,Social conventions
+1m8nhhl,google/gemma-3-4b-it,D,D,B,D,literal,Situational,Social conventions
+1irf9u4,google/gemma-3-4b-it,D,D,C,D,literal,Situational,meme
+1jkt7ig,google/gemma-3-4b-it,C,C,C,A,correct,Exaggeration,Social conventions
+1ieb7j3,google/gemma-3-4b-it,A,A,D,C,other_distractor,Surprise,meme
+1kozyll,google/gemma-3-4b-it,B,B,D,B,literal,Comparison,Pop culture
+1d9ip08,google/gemma-3-4b-it,A,A,A,B,correct,Comparison,Hobby
+1lv6b82,google/gemma-3-4b-it,A,A,A,D,correct,Situational,Social conventions
+1jy5h3e,google/gemma-3-4b-it,D,D,C,D,literal,Sarcasm/Irony,Technical
+1ic88xs,google/gemma-3-4b-it,C,C,B,C,literal,Surprise,Logical
+1jhad2m,google/gemma-3-4b-it,D,D,A,D,literal,Incongruity,Hobby
+188hmpb,google/gemma-3-4b-it,C,C,B,C,literal,Wordplay,General knowledge
+1i6a88o,google/gemma-3-4b-it,D,D,A,D,literal,Sarcasm/Irony,meme
+1ka6jiq,google/gemma-3-4b-it,D,D,C,D,literal,Exaggeration,Social conventions
+1bhaz0e,google/gemma-3-4b-it,C,C,C,A,correct,Dark Humor,politics
+1fq1qb9,google/gemma-3-4b-it,C,C,B,C,literal,Wordplay,Logical
+1hudgc9,google/gemma-3-4b-it,B,B,A,B,literal,Sarcasm/Irony,Hobby
+1lkox24,google/gemma-3-4b-it,D,D,B,D,literal,Exaggeration,Pop culture
+1hdbees,google/gemma-3-4b-it,B,B,D,B,literal,Wordplay,Technical
+15upbjf,google/gemma-3-4b-it,D,D,D,A,correct,Incongruity,Technical
+1hph3za,google/gemma-3-4b-it,D,D,D,A,correct,Incongruity,meme
+1bazqft,google/gemma-3-4b-it,D,D,B,D,literal,Wordplay,History/Mythology
+1m61khr,google/gemma-3-4b-it,B,B,A,B,literal,Dark Humor,History/Mythology
+1muan3i,google/gemma-3-4b-it,A,A,C,A,literal,Surprise,General knowledge
+1g8raiu,google/gemma-3-4b-it,B,B,D,B,literal,Incongruity,meme
+16h1wrg,google/gemma-3-4b-it,D,D,B,A,other_distractor,Wordplay,Technical
+16uuwk3,google/gemma-3-4b-it,D,D,D,A,correct,Sarcasm/Irony,meme
+1d0nows,google/gemma-3-4b-it,B,B,A,B,literal,Dark Humor,Pop culture
+1l0pn3b,google/gemma-3-4b-it,C,C,B,C,literal,Exaggeration,Social conventions
+16zvi3l,google/gemma-3-4b-it,C,C,A,C,literal,Surprise,Pop culture
+1fcm1zb,google/gemma-3-4b-it,C,C,A,C,literal,Wordplay,Social conventions
+193it8r,google/gemma-3-4b-it,B,B,B,A,correct,Surprise,History/Mythology
+15a2flm,google/gemma-3-4b-it,C,C,D,C,literal,Dark Humor,General knowledge
+1dk358k,google/gemma-3-4b-it,B,B,D,A,other_distractor,Wordplay,Pop culture
+1ixuiml,google/gemma-3-4b-it,D,D,B,D,literal,Surprise,Social conventions
+1jd57jt,google/gemma-3-4b-it,D,D,C,A,other_distractor,Sarcasm/Irony,Hobby
+1eerszi,google/gemma-3-4b-it,D,D,A,D,literal,Incongruity,Pop culture
+1n6ohcl,google/gemma-3-4b-it,C,C,A,C,literal,Sarcasm/Irony,Technical
+1ex2gnv,google/gemma-3-4b-it,D,D,D,A,correct,Incongruity,meme
+1kc6xta,google/gemma-3-4b-it,B,B,C,B,literal,Comparison,meme
+1bojwn9,google/gemma-3-4b-it,B,B,D,B,literal,Incongruity,Social conventions
+1mk8rnt,google/gemma-3-4b-it,D,D,A,D,literal,Dark Humor,Pop culture
+1hh0vwh,google/gemma-3-4b-it,D,D,B,D,literal,Wordplay,General knowledge
+1aqy5m7,google/gemma-3-4b-it,B,B,A,B,literal,Incongruity,General knowledge
+1m68ug3,google/gemma-3-4b-it,A,A,B,A,literal,Exaggeration,History/Mythology
+1jg3hi7,google/gemma-3-4b-it,D,D,B,D,literal,Incongruity,Pop culture
+1isy4zt,google/gemma-3-4b-it,C,C,D,C,literal,Wordplay,General knowledge
+19egkxy,google/gemma-3-4b-it,C,C,C,D,correct,Comparison,Logical
+1jjvw9a,google/gemma-3-4b-it,C,C,A,C,literal,Sarcasm/Irony,History/Mythology
+1gboomw,google/gemma-3-4b-it,C,C,D,C,literal,Dark Humor,Technical
+1jj9t5b,google/gemma-3-4b-it,B,B,A,B,literal,Dark Humor,General knowledge
+1kcxst1,google/gemma-3-4b-it,D,D,B,D,literal,Surprise,History/Mythology
+1jaf822,google/gemma-3-4b-it,D,D,A,D,literal,Surprise,Technical
+1cvso6z,google/gemma-3-4b-it,B,B,A,B,literal,Wordplay,meme
+1k9sq1s,google/gemma-3-4b-it,C,C,A,C,literal,Dark Humor,General knowledge
+1e3q5dd,google/gemma-3-4b-it,B,B,A,B,literal,Comparison,meme
+1efztwz,google/gemma-3-4b-it,C,C,A,C,literal,Wordplay,Social conventions
+1jm74by,google/gemma-3-4b-it,D,D,C,D,literal,Comparison,General knowledge
+1lfy05f,google/gemma-3-4b-it,D,D,B,C,other_distractor,Sarcasm/Irony,General knowledge
+1e8xy5s,google/gemma-3-4b-it,B,B,D,B,literal,Dark Humor,Social conventions
+15oof8t,google/gemma-3-4b-it,D,D,C,D,literal,Incongruity,meme
+1ap3qmt,google/gemma-3-4b-it,B,B,C,B,literal,Incongruity,Pop culture
+1918ki4,google/gemma-3-4b-it,D,D,A,D,literal,Dark Humor,Social conventions
+1aexlbt,google/gemma-3-4b-it,C,C,C,D,correct,Wordplay,Technical
+1d670z1,google/gemma-3-4b-it,C,C,A,C,literal,Wordplay,General knowledge
+1m5qq8q,google/gemma-3-4b-it,B,B,D,B,literal,Comparison,Pop culture
+1moj7hc,google/gemma-3-4b-it,C,C,D,C,literal,Dark Humor,History/Mythology
+174k7i0,google/gemma-3-4b-it,D,D,A,D,literal,Incongruity,Technical
+1lqpazn,google/gemma-3-4b-it,C,C,B,C,literal,Surprise,History/Mythology
+1j7mzha,google/gemma-3-4b-it,B,B,B,D,correct,Dark Humor,History/Mythology
+1i6ymv5,google/gemma-3-4b-it,D,D,A,D,literal,Sarcasm/Irony,Social conventions
+18d37io,google/gemma-3-4b-it,C,C,B,C,literal,Wordplay,Logical
+1ms7hs4,google/gemma-3-4b-it,B,B,B,A,correct,Dark Humor,Technical
+1jcvxw6,google/gemma-3-4b-it,B,B,C,B,literal,Dark Humor,General knowledge
+1iuuulu,google/gemma-3-4b-it,C,C,B,C,literal,Incongruity,Hobby
+1h9qk3m,google/gemma-3-4b-it,C,C,B,C,literal,Dark Humor,General knowledge
+1jvfqgq,google/gemma-3-4b-it,D,D,B,A,other_distractor,Dark Humor,politics
+164v3oo,google/gemma-3-4b-it,B,B,C,B,literal,Surprise,Logical
+1n68buk,google/gemma-3-4b-it,D,D,B,A,other_distractor,Exaggeration,Hobby
+1khvtur,google/gemma-3-4b-it,C,C,B,C,literal,Exaggeration,Hobby
+18ae5ry,google/gemma-3-4b-it,A,A,A,B,correct,Wordplay,General knowledge
+1ip0ht2,google/gemma-3-4b-it,C,C,B,C,literal,Exaggeration,Hobby
+1lq3p3j,google/gemma-3-4b-it,C,C,D,C,literal,Dark Humor,Social conventions
+1jvn2sr,google/gemma-3-4b-it,B,B,C,B,literal,Dark Humor,Technical
+1isa49u,google/gemma-3-4b-it,D,D,D,B,correct,Wordplay,History/Mythology
+1fjfblb,google/gemma-3-4b-it,A,A,C,A,literal,Exaggeration,Pop culture
+1eilsjt,google/gemma-3-4b-it,D,D,A,B,other_distractor,Incongruity,General knowledge
+15gdv3c,google/gemma-3-4b-it,D,D,B,D,literal,Dark Humor,General knowledge
+1ajx3sn,google/gemma-3-4b-it,C,C,B,A,other_distractor,Wordplay,Pop culture
+16k7baz,google/gemma-3-4b-it,C,C,A,C,literal,Dark Humor,Social conventions
+1cynp2h,google/gemma-3-4b-it,C,C,A,C,literal,Sarcasm/Irony,Pop culture
+19bj5k2,google/gemma-3-4b-it,C,C,A,C,literal,Sarcasm/Irony,General knowledge
+16l57ay,google/gemma-3-4b-it,D,D,B,A,other_distractor,Wordplay,History/Mythology
+16db363,google/gemma-3-4b-it,D,D,C,A,other_distractor,Sarcasm/Irony,Pop culture
+1l79lv3,google/gemma-3-4b-it,B,B,D,B,literal,Dark Humor,Hobby
+1haf45x,google/gemma-3-4b-it,B,B,C,B,literal,Sarcasm/Irony,General knowledge
+1df3nh8,google/gemma-3-4b-it,D,D,D,B,correct,Dark Humor,History/Mythology
+1fzh8sa,google/gemma-3-4b-it,C,C,C,A,correct,Sarcasm/Irony,Pop culture
+1ijv4xn,google/gemma-3-4b-it,B,B,A,B,literal,Wordplay,General knowledge
